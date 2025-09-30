@@ -61,7 +61,8 @@ An example SEER analysis is included:
 ---
 ## 2. [Survival Prediction Using Machine Learning](#2-survival-prediction-using-machine-learning)
 
-### 📄 Examples with HTC Data  
+### 📄 Examples with allogeneic hematopoietic cell transplantation (HCT):
+
 - **Model Performance (AUC Comparison):** [AUC.pdf](model_auc_comparison.pdf)  
 - **Survival Curves (Kaplan–Meier):** [KM.pdf](km_plots.pdf)  
 - **Risk Stratification (Random Survival Forests):** [Risk Stratification.pdf](rsf_risk_groups.pdf)  
