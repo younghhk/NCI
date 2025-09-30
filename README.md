@@ -39,7 +39,7 @@ print(ibm_result)
 ## 📄 Example PDF
 
 An example SEER analysis is included:  
-👉 [seer_example.pdf](seer_example.pdf)  
+👉 [SEER_example.pdf](SEER_example.pdf)  
 
 *(Make sure the file `seer_example.pdf` is uploaded into the repository root folder, so the link works.)*
 
