@@ -92,8 +92,8 @@ An example SEER analysis is included:
 ---
 ## 🔒 Repository Access
 
-This repository is **private**.  
-For access, please contact:
+The SEER repository is **private**.  
+Access requests may be directed to:
 
 **Grace Hong**  
 📧 [grace.hong@nih.gov](mailto:grace.hong@nih.gov)  
