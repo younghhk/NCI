@@ -41,7 +41,6 @@ print(ibm_result)
 An example SEER analysis is included:  
 👉 [SEER_example.pdf](SEER_example.pdf)  
 
-*(Make sure the file `seer_example.pdf` is uploaded into the repository root folder, so the link works.)*
 
 ---
 
