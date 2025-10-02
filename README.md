@@ -1,17 +1,22 @@
-#  Research Software Repository
+# Research Software Repository
 
 ## Contents
 - [1. SEER Cancer Data Analysis 🔒 (Collaborators Only)](#1-seer-cancer-data-analysis)
+
 - [2. Survival Analysis](https://github.com/younghhk/Survival-Analysis)
   - [2.1 Choosing the Time Scale and Handling Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)
   - [2.2 Adjusted Survival Curve Estimation from the Cox Proportional Hazards Model](https://github.com/younghhk/Survival-Analysis#sec-adjusted-survival)
   - [2.3 Survival Prediction Using Machine Learning 🔒 (Collaborators Only)](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)
+
 - [3. Cancer Disparity Decomposition Methods](https://github.com/younghhk/Disparity-Decomposition)
   - [3.1 Peters–Belson Decomposition of the Proportion of Death](https://github.com/younghhk/Disparity-Decomposition#petersbelson-decomposition-on-the-proportion-of-death-black-vs-white)
   - [3.2 Quantile-Based Decomposition (Lower-Tail BMI / Telomere)](https://github.com/younghhk/Disparity-Decomposition#quantile-based-disparity-decomposition-focus-on-lower-bmi)
   - [3.3 Time-Dependent Disparity Decomposition](https://github.com/younghhk/Disparity-Decomposition#3-time-dependent-disparity-decomposition--narrative-no-formulas)
 
-
+- [4. Quantile Regression for Cancer Research: Beyond the Mean](https://github.com/younghhk/Quantile-Regression)
+  - 4.1 Is sex associated differently at **lower** vs **higher** telomere-length quantiles, or is the effect constant across quantiles?
+  - 4.2 Identifying CpG sites associated with **high LINE-1 activity** (via **total TE counts**) using upper-quantile modeling
+  - 4.3 Do race/ethnicity effects differ for **short** vs **long** breast cancer survival? *(use censored quantile methods)*
 
 ---
 
