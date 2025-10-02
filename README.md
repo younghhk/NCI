@@ -7,9 +7,10 @@
   - [2.2 Adjusted Survival Curve Estimation from the Cox Proportional Hazards Model](https://github.com/younghhk/Survival-Analysis#sec-adjusted-survival)
   - [2.3 Survival Prediction Using Machine Learning 🔒 (Collaborators Only)](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)
 - [3. Cancer Disparity Decomposition Methods](https://github.com/younghhk/Disparity-Decomposition)
-  - [3.1 Peters–Belson on Proportions of Death](https://github.com/younghhk/Disparity-Decomposition#petersbelson-decomposition-on-the-proportion-of-death-black-vs-white)
+  - [3.1 Peters–Belson Decomposition of the Proportion of Death](https://github.com/younghhk/Disparity-Decomposition#petersbelson-decomposition-on-the-proportion-of-death-black-vs-white)
   - [3.2 Quantile-Based Decomposition (Lower-Tail BMI / Telomere)](https://github.com/younghhk/Disparity-Decomposition#quantile-based-disparity-decomposition-focus-on-lower-bmi)
-  - [3.3 Time-Dependent Disparity](https://github.com/younghhk/Disparity-Decomposition#3-time-dependent-disparity-decomposition--narrative-no-formulas)
+  - [3.3 Time-Dependent Disparity Decomposition](https://github.com/younghhk/Disparity-Decomposition#3-time-dependent-disparity-decomposition--narrative-no-formulas)
+
 
 
 ---
