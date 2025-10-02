@@ -87,14 +87,14 @@ An example SEER analysis is included:
 
 
 
-
-
 ---
 ## 🔒 Repository Access
 
-The SEER repository is **private**.  
-Access requests may be directed to:
+Some content is restricted to collaborators. To request access, please contact:
 
 **Grace Hong**  
-📧 [grace.hong@nih.gov](mailto:grace.hong@nih.gov)  
+📧 [grace.hong@nih.gov](mailto:grace.hong@nih.gov)
+
+*Tip: Include your GitHub username and affiliation in your request.*
+
 
