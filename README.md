@@ -3,8 +3,8 @@
 ## Contents
 - [1. SEER Cancer Data Analysis 🔒 (Collaborators Only)](#1-seer-cancer-data-analysis)
 - [2. Survival Analysis](https://github.com/younghhk/Survival-Analysis)
-  - [2.1 Choosing the Time Scale and Handling Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#choosing-the-time-scale-and-handling-delayed-entry-in-cox-models)
-  - [2.2 Adjusted Survival Curve Estimation from the Cox Proportional Hazards Model](https://github.com/younghhk/Survival-Analysis#adjusted-survival-curve-estimation-from-the-cox-proportional-hazards-model)
+  - [2.1 Choosing the Time Scale and Handling Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)
+  - [2.2 Adjusted Survival Curve Estimation from the Cox Proportional Hazards Model](https://github.com/younghhk/Survival-Analysis#sec-adjusted-survival)
   - [2.3 Survival Prediction Using Machine Learning 🔒 (Collaborators Only)](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)
 
 ---
