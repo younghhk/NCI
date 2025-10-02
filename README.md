@@ -1,9 +1,9 @@
 #  Research Software Repository
 
-## Table of Contents
-1. [SEER Cancer Data Analysis](#1-seer-cancer-data-analysis)
-2. [Survival Prediction Using Machine Learning](#2-Survival-Prediction-Using-Machine-Learning)
-3. [Other Topics](#3-other-topics)
+## Contents
+- [1. SEER Cancer Data Analysis 🔒 (Collaborators Only)](#1-seer-cancer-data-analysis)
+- [2. Survival Analysis](https://github.com/younghhk/Survival-Analysis)
+
 
 ---
 
@@ -73,19 +73,7 @@ An example SEER analysis is included:
 - [NCI Division of Cancer Epidemiology and Genetics](https://dceg.cancer.gov/)  
 
 
----
-## 2. [Survival Prediction Using Machine Learning](#2-survival-prediction-using-machine-learning)
 
-
-
-###  Examples with allogeneic hematopoietic cell transplantation (HCT):
-
-- **Model Performance (AUC Comparison):** [AUC.pdf](model_auc_comparison.pdf)  
-- **Survival Curves (Kaplan–Meier):** [KM.pdf](km_plots.pdf)  
-- **Risk Stratification (Random Survival Forests):** [Risk Stratification.pdf](rsf_risk_groups.pdf)  
-
-###  Resources
-- [Random Survival Forests Overview](https://www.randomforestsrc.org/articles/survival.html)  
 
 
 ---
