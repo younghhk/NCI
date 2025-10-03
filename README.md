@@ -18,6 +18,20 @@
   - 4.2 Identifying CpG sites associated with **high LINE-1 activity** (via **total TE counts**) using upper-quantile modeling
   - 4.3 Do race/ethnicity effects differ for **short** vs **long** breast cancer survival? *(use censored quantile methods)*
 
+- [5. High-Dimensional Feature (Biomarker) Selection](https://github.com/younghhk/Feature-selection)
+  - [5.1 Mixed Modeling Approach for Genetic Effects in Longitudinal Phenotypes (2025)](https://github.com/younghhk/Feature-selection#mixed-2025)
+  - [5.2 Discovery of Gene-Specific Time Effects on Survival (2024)](https://github.com/younghhk/Feature-selection#gene-time-2024)
+  - [5.3 Inference for High-Dimensional Censored Quantile Regression (2023)](https://github.com/younghhk/Feature-selection#hd-cqr-2023)
+  - [5.4 Quantile Forward Regression for High-Dimensional Survival Data (2023)](https://github.com/younghhk/Feature-selection#qfr-2023)
+  - [5.5 Varying-Coefficient Regional Quantile via KNN–LASSO (2023)](https://github.com/younghhk/Feature-selection#vc-knn-lasso-2023)
+  - [5.6 Sequentially Conditional GLMs (2020)](https://github.com/younghhk/Feature-selection#sc-glm-2020)
+  - [5.7 Multiclass LDA with Ultrahigh-Dimensional Features (2019)](https://github.com/younghhk/Feature-selection#lda-2019)
+  - [5.8 Forward Regression for Cox Models (2019)](https://github.com/younghhk/Feature-selection#cox-forward-2019)
+  - [5.9 Lq-Norm Learning (2018)](https://github.com/younghhk/Feature-selection#lq-2018)
+  - [5.10 IPOD Screening (2018)](https://github.com/younghhk/Feature-selection#ipod-2018)
+  - [5.11 Conditional Screening (2018)](https://github.com/younghhk/Feature-selection#cs-2018)
+  - [5.12 Partition-Based Screening (2017)](https://github.com/younghhk/Feature-selection#partition-2017)
+  - [5.13 Quantile-Adaptive Model-Free Screening (2013)](https://github.com/younghhk/Feature-selection#qa-2013)
 ---
 
 
