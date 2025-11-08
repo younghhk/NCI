@@ -6,7 +6,7 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 
 - 📈 [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
 
-A tool for estimating expected cancer cases using age- and sex-specific incidence and mortality rates. Developed in collaboration with E. Vogtmann (DCEG/NCI/NIH) to provide an automated framework for cohort-based cancer projections.
+A tool for estimating expected cancer cases using age- and sex-specific incidence and mortality rates, providing an automated framework for cohort-based cancer projections.
 
   🔒 Access to this repository is currently limited to authorized collaborators until the program is fully verified.
 
