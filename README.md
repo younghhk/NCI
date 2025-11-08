@@ -3,7 +3,12 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 
 ## Contents
 
+- 🪢 [Mediation Analysis](https://github.com/younghhk/MediationAnalysis)
 
+  A practical checklist and workflow guide for planning mediation analysis in observational cancer research.  
+This repository helps researchers identify the correct analytical framework based on study design — including outcome type, mediator dimensionality, and confounder structure — before model implementation.
+
+  
 - 📈 [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
 
 A tool for estimating expected cancer cases using age- and sex-specific incidence and mortality rates, providing an automated framework for cohort-based cancer projections.
