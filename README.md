@@ -6,7 +6,7 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 
 - 📈 [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
 
-  Estimates expected cancer cases for a cohort using age-specific incidence and mortality rates. The package expands 5-year age-band counts into single-year ages, applies sex-specific rates, and simulates annual aging, incidence, and all-cause mortality.
+A tool for estimating expected cancer cases using age- and sex-specific incidence and mortality rates. Developed in collaboration with E. Vogtmann (DCEG/NCI/NIH) to provide an automated framework for cohort-based cancer projections.
 
   🔒 Access to this repository is currently limited to authorized collaborators until the program is fully verified.
 
