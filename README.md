@@ -1,7 +1,7 @@
 # Cancer Research Software Repository
 
 ## Contents
-- [Project expected cancer cases 🔒 (Collaborators Only)](https://github.com/younghhk/expectedCases)
+- [Projecting expected cancer cases 🔒 (Collaborators Only)](https://github.com/younghhk/expectedCases)
 
 - [SEER Cancer Data Analysis 🔒 (Collaborators Only)](https://github.com/younghhk/SEER)
 
