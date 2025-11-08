@@ -2,7 +2,9 @@
 A collection of tools for modeling cancer incidence, survival, biomarker selection, and risk prediction model development — designed to advance reproducible and data-driven cancer research.
 
 ## Contents
-- [Projecting expected cancer cases](https://github.com/younghhk/expectedCases)
+
+
+- 📈 [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
 
   Estimates expected cancer cases for a cohort using age-specific incidence and mortality rates. The package expands 5-year age-band counts into single-year ages, applies sex-specific rates, and simulates annual aging, incidence, and all-cause mortality.
 
