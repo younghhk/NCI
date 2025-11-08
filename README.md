@@ -1,4 +1,5 @@
-# Cancer Research Software Repository
+# 🧬 Cancer Research Software Repository
+A collection of tools for modeling cancer incidence, survival, biomarker selection, and risk prediction model development — designed to advance reproducible and data-driven cancer research.
 
 ## Contents
 - [Projecting expected cancer cases](https://github.com/younghhk/expectedCases)
