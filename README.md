@@ -3,6 +3,10 @@
 ## Contents
 - [Projecting expected cancer cases 🔒 (Collaborators Only)](https://github.com/younghhk/expectedCases)
 
+  Project expected cancer cases for a cohort using age-specific incidence and mortality rates. The package expands 5-year age-band counts to single-year ages, applies sex-specific rates, and simulates annual aging, incidence, and all-cause mortality.
+
+This repository is currently restricted to authorized collaborators until the program is fully verified.
+
 - [SEER Cancer Data Analysis 🔒 (Collaborators Only)](https://github.com/younghhk/SEER)
 
 - [Survival Analysis](https://github.com/younghhk/Survival-Analysis)
