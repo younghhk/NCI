@@ -1,13 +1,18 @@
 # Cancer Research Software Repository
 
 ## Contents
-- [Projecting expected cancer cases 🔒 (Collaborators Only)](https://github.com/younghhk/expectedCases)
+- [Projecting expected cancer cases](https://github.com/younghhk/expectedCases)
 
-  Project expected cancer cases for a cohort using age-specific incidence and mortality rates. The package expands 5-year age-band counts to single-year ages, applies sex-specific rates, and simulates annual aging, incidence, and all-cause mortality.
+  Estimates expected cancer cases for a cohort using age-specific incidence and mortality rates. The package expands 5-year age-band counts into single-year ages, applies sex-specific rates, and simulates annual aging, incidence, and all-cause mortality.
 
-This repository is currently restricted to authorized collaborators until the program is fully verified.
+  🔒 Access to this repository is currently limited to authorized collaborators until the program is fully verified.
 
-- [SEER Cancer Data Analysis 🔒 (Collaborators Only)](https://github.com/younghhk/SEER)
+- [SEER Cancer Data Analysis](https://github.com/younghhk/SEER)
+
+  This repository provides R functions to compute Incidence-Based Mortality (IBM) rates and rate ratios.
+The methods include adjustments for small-count bias and variance estimation, making them suitable for rare cancers and small populations.
+
+  🔒 Access to this repository is currently limited to authorized collaborators until the program is fully verified.
 
 - [Survival Analysis](https://github.com/younghhk/Survival-Analysis)
   - [1 Choosing the Time Scale and Handling Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)
