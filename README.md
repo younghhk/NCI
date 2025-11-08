@@ -16,6 +16,9 @@ The methods include adjustments for small-count bias and variance estimation, ma
 
 - [Survival Analysis](https://github.com/younghhk/Survival-Analysis)
   - [1 Choosing the Time Scale and Handling Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)
+
+    Demonstrates a complex survival analysis scenario, including time-scale selection and handling delayed entry in Cox models, using hypothetical data, statistical methods, and reproducible R code.
+    
   - [2 Adjusted Survival Curve Estimation from the Cox Proportional Hazards Model](https://github.com/younghhk/Survival-Analysis#sec-adjusted-survival)
   - [3 Survival Prediction Using Machine Learning 🔒 (Collaborators Only)](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)
 
