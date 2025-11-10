@@ -15,9 +15,9 @@ A tool for estimating expected cancer cases using age- and sex-specific incidenc
 
   🔒 Access to this repository is currently limited to authorized collaborators until the program is fully verified.
 
-- [SEER Cancer Data Analysis](https://github.com/younghhk/SEER)
+- 🧮 [IBM-Calc: A Computational Tool for Estimating Age-Standardized Incidence-Based Mortality and Rate Ratio Confidence Intervals](https://github.com/younghhk/SEER)
 
-  This repository provides R functions to compute Incidence-Based Mortality (IBM) rates and rate ratios.
+  This repository provides R functions to compute age-adjusted Incidence-Based Mortality (IBM) rates and rate ratios.
 The methods include adjustments for small-count bias and variance estimation, making them suitable for rare cancers and small populations.
 
   🔒 Access to this repository is currently limited to authorized collaborators until the program is fully verified.
