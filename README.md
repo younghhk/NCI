@@ -23,6 +23,8 @@ The methods include adjustments for small-count bias and variance estimation, ma
 
   🔒 Access to this repository is currently limited to authorized collaborators until the program is fully verified.
 
+---
+
 - 📊 [Meta-Analysis for Clinical Research](https://github.com/younghhk/Meta-Analysis)
 
    This repository provides an overview, key concepts, and essential formulas for performing meta-analysis in clinical research, including fixed-effect and random-effects models.
