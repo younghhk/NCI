@@ -42,31 +42,49 @@ The methods include adjustments for small-count bias and variance estimation, ma
   - 2 Identifying CpG sites associated with high LINE-1 activity (via total TE counts) using upper-quantile modeling
   - 3 Do race/ethnicity effects differ for short vs long breast cancer survival? 
 
-- [High-Dimensional Feature (Biomarker) Selection](https://github.com/younghhk/Feature-selection)
-  - [1 Mixed Modeling Approach for Genetic Effects in Longitudinal Phenotypes (2025)](https://github.com/younghhk/Feature-selection#mixed-2025)
-  - [2 Discovery of Gene-Specific Time Effects on Survival (2024)](https://github.com/younghhk/Feature-selection#gene-time-2024)
-  - [3 Inference for High-Dimensional Censored Quantile Regression (2023)](https://github.com/younghhk/Feature-selection#hd-cqr-2023)
-  - [4 Quantile Forward Regression for High-Dimensional Survival Data (2023)](https://github.com/younghhk/Feature-selection#qfr-2023)
-  - [5 Varying-Coefficient Regional Quantile via KNN–LASSO (2023)](https://github.com/younghhk/Feature-selection#vc-knn-lasso-2023)
-  - [6 Sequentially Conditional GLMs (2020)](https://github.com/younghhk/Feature-selection#sc-glm-2020)
-  - [7 Multiclass LDA with Ultrahigh-Dimensional Features (2019)](https://github.com/younghhk/Feature-selection#lda-2019)
-  - [8 Forward Regression for Cox Models (2019)](https://github.com/younghhk/Feature-selection#cox-forward-2019)
-  - [9 Lq-Norm Learning (2018)](https://github.com/younghhk/Feature-selection#lq-2018)
-  - [10 IPOD Screening (2018)](https://github.com/younghhk/Feature-selection#ipod-2018)
-  - [11 Conditional Screening (2018)](https://github.com/younghhk/Feature-selection#cs-2018)
-  - [12 Partition-Based Screening (2017)](https://github.com/younghhk/Feature-selection#partition-2017)
-  - [13 Quantile-Adaptive Model-Free Screening (2013)](https://github.com/younghhk/Feature-selection#qa-2013)
----
+## 🧠 High-Dimensional Statistical and Machine Learning Methods
+
+### Recent Works
+
+- [Mixed Modeling Approach for Genetic Effects in Longitudinal Phenotypes (2025)](https://pubmed.ncbi.nlm.nih.gov/40893136/)
+
+- [Quantile Forward Regression for High-Dimensional Survival Data (2024)](https://doi.org/10.1007/s10985-023-09603-w)
+
+- [Varying-Coefficient Regional Quantile via KNN–LASSO (2024)](https://doi.org/10.1002/sim.9839)
+
+- Discovery of Gene-Specific Time Effects on Survival (2024) — *Book Chapter*
+
+- [Inference for High-Dimensional Censored Quantile Regression (2023)](https://pubmed.ncbi.nlm.nih.gov/37309513/)
 
 
 
-## 🔒 Repository Access
+### Earlier Developments
 
-Some content is restricted to collaborators. To request access, please contact:
+- Sequentially Conditional GLMs (2020)
+
+- Multiclass LDA with Ultrahigh-Dimensional Features (2019)
+
+- Forward Regression for Cox Models (2019)
+
+- Lq-Norm Learning (2018)
+
+- IPOD Screening (2018)
+
+- Conditional Screening (2018)
+
+- Partition-Based Screening (2017)
+
+- [Quantile-Adaptive Model-Free Screening (2013)](https://doi.org/10.1214/13-AOS1087)
+
+ ---
+
+
+
+## Author
 
 **Grace Hong**  
 📧 [grace.hong@nih.gov](mailto:grace.hong@nih.gov)
 
-*Tip: Include your GitHub username and affiliation in your request.*
+
 
 
