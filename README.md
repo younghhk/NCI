@@ -48,9 +48,9 @@ The methods include adjustments for small-count bias and variance estimation, ma
 
 - [Mixed Modeling Approach for Genetic Effects in Longitudinal Phenotypes (2025)](https://pubmed.ncbi.nlm.nih.gov/40893136/)
 
-- [Quantile Forward Regression for High-Dimensional Survival Data (2024)](https://doi.org/10.1007/s10985-023-09603-w)
+- [Quantile Forward Regression for High-Dimensional Survival Data (2023)](https://doi.org/10.1007/s10985-023-09603-w)
 
-- [Varying-Coefficient Regional Quantile via KNN–LASSO (2024)](https://doi.org/10.1002/sim.9839)
+- [Varying-Coefficient Regional Quantile via KNN–LASSO (2023)](https://doi.org/10.1002/sim.9839)
 
 - Discovery of Gene-Specific Time Effects on Survival (2024) — *Book Chapter*
 
