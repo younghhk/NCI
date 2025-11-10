@@ -33,9 +33,9 @@ The methods include adjustments for small-count bias and variance estimation, ma
   - [3 Time-Dependent Disparity Decomposition](https://github.com/younghhk/Disparity-Decomposition#3-time-dependent-disparity-decomposition--narrative-no-formulas)
 
 - [Quantile Regression for Cancer Research: Beyond the Mean](https://github.com/younghhk/Quantile-Regression)
-  - 1 Is sex associated differently at **lower** vs **higher** telomere-length quantiles, or is the effect constant across quantiles?
-  - 2 Identifying CpG sites associated with **high LINE-1 activity** (via **total TE counts**) using upper-quantile modeling
-  - 3 Do race/ethnicity effects differ for **short** vs **long** breast cancer survival? *(use censored quantile methods)*
+  - 1 Is sex associated differently at lower vs higher telomere-length quantiles, or is the effect constant across quantiles?
+  - 2 Identifying CpG sites associated with high LINE-1 activity (via total TE counts) using upper-quantile modeling
+  - 3 Do race/ethnicity effects differ for short vs long breast cancer survival? 
 
 - [High-Dimensional Feature (Biomarker) Selection](https://github.com/younghhk/Feature-selection)
   - [1 Mixed Modeling Approach for Genetic Effects in Longitudinal Phenotypes (2025)](https://github.com/younghhk/Feature-selection#mixed-2025)
