@@ -61,14 +61,11 @@ The methods include adjustments for small-count bias and variance estimation, ma
 
 ### Applications
 
-- **Telomere-Length Disparities:**  
-  Investigates whether **sex is associated differently across the telomere-length distribution**, focusing on whether the effect is stronger at lower versus higher quantiles.
+- Investigates whether **sex is associated differently across the telomere-length distribution**
 
-- **Epigenetic Regulation:**  
-  Identifies **CpG sites linked to elevated LINE-1 activity** (via total transposable element counts) using **upper-quantile regression**, highlighting extreme genomic activation patterns.
+- Identifies **CpG sites linked to elevated LINE-1 activity** (via total transposable element counts) 
 
-- **Survival Inequality:**  
-  Examines whether **race/ethnicity influences short-term versus long-term breast cancer survival differently**, capturing distributional heterogeneity often missed by mean-based models.
+- Examines whether **race/ethnicity influences short-term versus long-term breast cancer survival differently**, capturing distributional heterogeneity often missed by mean-based models.
 
 ---
 ## 🧠 High-Dimensional Statistical and Machine Learning Methods
