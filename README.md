@@ -23,7 +23,7 @@ The methods include adjustments for small-count bias and variance estimation, ma
   🔒 Access to this repository is currently limited to authorized collaborators until the program is fully verified.
 
 - [Survival Analysis](https://github.com/younghhk/Survival-Analysis)
-  - [1 Handling Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)
+  - [1 ⏳ Handling Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)
   - [2 Adjusted Survival Curve Estimation from the Cox Proportional Hazards Model](https://github.com/younghhk/Survival-Analysis#sec-adjusted-survival)
   - [3 Survival Prediction Using Machine Learning 🔒 (Collaborators Only)](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)
 
