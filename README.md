@@ -5,7 +5,7 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 
 - 🪢 [Mediation Analysis](https://github.com/younghhk/Mediation-Analysis)
 
-  A practical checklist and workflow guide for planning mediation analysis in observational cancer research.  
+  A workflow guide for planning mediation analysis in observational cancer research.  
 This repository helps researchers identify the correct analytical framework based on study design — including outcome type, mediator dimensionality, and confounder structure — before model implementation.
 
   
