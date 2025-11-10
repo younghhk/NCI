@@ -44,7 +44,7 @@ The methods include adjustments for small-count bias and variance estimation, ma
   Covers the use of **machine learning algorithms** (e.g., random survival forests, deep learning, and gradient boosting) for survival prediction and risk stratification.
 
 ---
-##  Cancer Disparity Decomposition Methods
+##  Disparity Decomposition Methods
 ###  Topics
 
 - [Peters–Belson Decomposition of the Proportion of Death](https://github.com/younghhk/Disparity-Decomposition#petersbelson-decomposition-on-the-proportion-of-death-black-vs-white)  
