@@ -40,7 +40,7 @@ The methods include adjustments for small-count bias and variance estimation, ma
 - [Adjusted Survival Curve Estimation from the Cox Proportional Hazards Model](https://github.com/younghhk/Survival-Analysis#sec-adjusted-survival)  
   Demonstrates how to estimate **adjusted survival curves** that account for covariate distributions or population-level effects.
 
-- [Survival Prediction Using Machine Learning 🔒](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)  
+- [Survival Prediction Using Machine Learning](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)  
   Covers the use of **machine learning algorithms** (e.g., random survival forests, deep learning, and gradient boosting) for survival prediction and risk stratification.
 
 ---
