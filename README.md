@@ -28,7 +28,7 @@ The methods include adjustments for small-count bias and variance estimation, ma
    This repository provides an overview, key concepts, and essential formulas for performing meta-analysis in clinical research, including fixed-effect and random-effects models.
 
 ---  
-##  [Survival Analysis](https://github.com/younghhk/Survival-Analysis)
+##  Survival Analysis
 
 ###  Topics
 
@@ -42,8 +42,7 @@ The methods include adjustments for small-count bias and variance estimation, ma
   Covers the use of **machine learning algorithms** (e.g., random survival forests, deep learning, and gradient boosting) for survival prediction and risk stratification.
 
 ---
-##  [Cancer Disparity Decomposition Methods](https://github.com/younghhk/Disparity-Decomposition)
-
+##  Cancer Disparity Decomposition Methods
 ###  Topics
 
 - [Peters–Belson Decomposition of the Proportion of Death](https://github.com/younghhk/Disparity-Decomposition#petersbelson-decomposition-on-the-proportion-of-death-black-vs-white)  
@@ -58,7 +57,7 @@ The methods include adjustments for small-count bias and variance estimation, ma
 
 
 ---
-##  [Quantile Regression for Cancer Research: Beyond the Mean](https://github.com/younghhk/Quantile-Regression)
+## Quantile Regression for Cancer Research: Beyond the Mean
 
 ### Applications
 
