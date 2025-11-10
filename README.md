@@ -52,8 +52,10 @@ The methods include adjustments for small-count bias and variance estimation, ma
 - [Quantile-Based Decomposition (Lower-Tail BMI / Telomere)](https://github.com/younghhk/Disparity-Decomposition#quantile-based-disparity-decomposition-focus-on-lower-bmi)  
   Uses **quantile regression** to analyze disparities at specific distributional ranges (e.g., lower-tail BMI or telomere length), revealing subgroup-specific effects often masked by mean-based methods.
 
-- [Time-Dependent Disparity Decomposition](https://github.com/younghhk/Disparity-Decomposition#3-time-dependent-disparity-decomposition--narrative-no-formulas)  
-  Extends decomposition techniques to **time-to-event outcomes**, allowing disparity estimation that evolves dynamically over follow-up time.
+- [Decomposition of Longitudinal Disparities](https://doi.org/10.10093/biostatistics/kxaf044) *(in press, available soon)*  
+  Extends decomposition techniques to evaluate how disparities **evolve dynamically over follow-up time**.
+
+
 
 ---
 ##  [Quantile Regression for Cancer Research: Beyond the Mean](https://github.com/younghhk/Quantile-Regression)
