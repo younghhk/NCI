@@ -96,11 +96,11 @@ The methods include adjustments for small-count bias and variance estimation, ma
 
 - Lq-Norm Learning (2018)
 
-- IPOD Screening (2018)
+- [IPOD Screening (2018)] (https://doi.org/10.1111/biom.12820)
 
-- Conditional Screening (2018)
+- [Conditional Screening with Survival Data (2018)] (https://doi.org/10.1007/s10985-016-9387-7)
 
-- Partition-Based Screening (2017)
+- [Partition-Based Screening (2017)](https://doi.org/10.1093/biomet/asx052)
 
 - [Quantile-Adaptive Model-Free Screening (2013)](https://doi.org/10.1214/13-AOS1087)
 
