@@ -25,7 +25,7 @@ The methods include adjustments for small-count bias and variance estimation, ma
 - [Survival Analysis](https://github.com/younghhk/Survival-Analysis)
   - [1 ⏳ Handling Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)
   - [2 Adjusted Survival Curve Estimation from the Cox Proportional Hazards Model](https://github.com/younghhk/Survival-Analysis#sec-adjusted-survival)
-  - [3 Survival Prediction Using Machine Learning 🔒 (Collaborators Only)](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)
+  - [3 Survival Prediction Using Machine Learning 🔒 ](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)
 
 - [Cancer Disparity Decomposition Methods](https://github.com/younghhk/Disparity-Decomposition)
   - [1 Peters–Belson Decomposition of the Proportion of Death](https://github.com/younghhk/Disparity-Decomposition#petersbelson-decomposition-on-the-proportion-of-death-black-vs-white)
