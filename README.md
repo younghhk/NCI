@@ -8,13 +8,14 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
   A workflow guide for planning mediation analysis in observational cancer research.  
 This repository helps researchers identify the correct analytical framework based on study design — including outcome type, mediator dimensionality, and confounder structure — before model implementation.
 
-  
+---  
 - 📈 [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
 
 A tool for estimating expected cancer cases using age- and sex-specific incidence and mortality rates, providing an automated framework for cohort-based cancer projections.
 
   🔒 Access to this repository is currently limited to authorized collaborators until the program is fully verified.
 
+---
 - 🧮 [IBM-Calc: A Computational Tool for Estimating Age-Standardized Incidence-Based Mortality and Rate Ratio Confidence Intervals](https://github.com/younghhk/SEER)
 
   This repository provides R functions to compute age-adjusted Incidence-Based Mortality (IBM) rates and rate ratios.
@@ -26,22 +27,49 @@ The methods include adjustments for small-count bias and variance estimation, ma
 
    This repository provides an overview, key concepts, and essential formulas for performing meta-analysis in clinical research, including fixed-effect and random-effects models.
 
-  
-- [Survival Analysis](https://github.com/younghhk/Survival-Analysis)
-  - [1 ⏳ Handling Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)
-  - [2 Adjusted Survival Curve Estimation from the Cox Proportional Hazards Model](https://github.com/younghhk/Survival-Analysis#sec-adjusted-survival)
-  - [3 Survival Prediction Using Machine Learning 🔒 ](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)
+---  
+##  [Survival Analysis](https://github.com/younghhk/Survival-Analysis)
 
-- [Cancer Disparity Decomposition Methods](https://github.com/younghhk/Disparity-Decomposition)
-  - [1 Peters–Belson Decomposition of the Proportion of Death](https://github.com/younghhk/Disparity-Decomposition#petersbelson-decomposition-on-the-proportion-of-death-black-vs-white)
-  - [2 Quantile-Based Decomposition (Lower-Tail BMI / Telomere)](https://github.com/younghhk/Disparity-Decomposition#quantile-based-disparity-decomposition-focus-on-lower-bmi)
-  - [3 Time-Dependent Disparity Decomposition](https://github.com/younghhk/Disparity-Decomposition#3-time-dependent-disparity-decomposition--narrative-no-formulas)
+###  Topics
 
-- [Quantile Regression for Cancer Research: Beyond the Mean](https://github.com/younghhk/Quantile-Regression)
-  - 1 Is sex associated differently at lower vs higher telomere-length quantiles, or is the effect constant across quantiles?
-  - 2 Identifying CpG sites associated with high LINE-1 activity (via total TE counts) using upper-quantile modeling
-  - 3 Do race/ethnicity effects differ for short vs long breast cancer survival? 
+- [Handling Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)  
+  Explores methods to correctly handle **left truncation** and align entry times in Cox proportional hazards models.
 
+- [Adjusted Survival Curve Estimation from the Cox Proportional Hazards Model](https://github.com/younghhk/Survival-Analysis#sec-adjusted-survival)  
+  Demonstrates how to estimate **adjusted survival curves** that account for covariate distributions or population-level effects.
+
+- [Survival Prediction Using Machine Learning 🔒](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)  
+  Covers the use of **machine learning algorithms** (e.g., random survival forests, deep learning, and gradient boosting) for survival prediction and risk stratification.
+
+---
+##  [Cancer Disparity Decomposition Methods](https://github.com/younghhk/Disparity-Decomposition)
+
+###  Topics
+
+- [Peters–Belson Decomposition of the Proportion of Death](https://github.com/younghhk/Disparity-Decomposition#petersbelson-decomposition-on-the-proportion-of-death-black-vs-white)  
+  Applies the **Peters–Belson framework** to estimate the proportion of survival disparities between groups (e.g., Black vs. White populations) explained by measurable risk factors versus residual differences.
+
+- [Quantile-Based Decomposition (Lower-Tail BMI / Telomere)](https://github.com/younghhk/Disparity-Decomposition#quantile-based-disparity-decomposition-focus-on-lower-bmi)  
+  Uses **quantile regression** to analyze disparities at specific distributional ranges (e.g., lower-tail BMI or telomere length), revealing subgroup-specific effects often masked by mean-based methods.
+
+- [Time-Dependent Disparity Decomposition](https://github.com/younghhk/Disparity-Decomposition#3-time-dependent-disparity-decomposition--narrative-no-formulas)  
+  Extends decomposition techniques to **time-to-event outcomes**, allowing disparity estimation that evolves dynamically over follow-up time.
+
+---
+##  [Quantile Regression for Cancer Research: Beyond the Mean](https://github.com/younghhk/Quantile-Regression)
+
+### Applications
+
+- **Telomere-Length Disparities:**  
+  Investigates whether **sex is associated differently across the telomere-length distribution**, focusing on whether the effect is stronger at lower versus higher quantiles.
+
+- **Epigenetic Regulation:**  
+  Identifies **CpG sites linked to elevated LINE-1 activity** (via total transposable element counts) using **upper-quantile regression**, highlighting extreme genomic activation patterns.
+
+- **Survival Inequality:**  
+  Examines whether **race/ethnicity influences short-term versus long-term breast cancer survival differently**, capturing distributional heterogeneity often missed by mean-based models.
+
+---
 ## 🧠 High-Dimensional Statistical and Machine Learning Methods
 
 ### Recent Works
@@ -79,11 +107,12 @@ The methods include adjustments for small-count bias and variance estimation, ma
  ---
 
 
+## 🧑‍💻 Author
 
-## Author
+**Hyokyoung "Grace" Hong**  
+📧 [grace.hong@nih.gov](mailto:grace.hong@nih.gov)  
 
-**Grace Hong**  
-📧 [grace.hong@nih.gov](mailto:grace.hong@nih.gov)
+💬 For questions, feedback, or collaboration inquiries, please feel free to reach out via email.
 
 
 
