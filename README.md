@@ -3,6 +3,13 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 
 ## Contents
 
+- 🥗 [Software for Computing Healthy Eating Index (HEI)](https://github.com/younghhk/HEI)
+
+An R-based implementation of the Healthy Eating Index (HEI-2020) scoring system using NHANES 2017–2018 and FPED 2017–2018 data.
+It follows the official USDA/NCI methodology for calculating total and component HEI scores, allowing researchers to evaluate diet quality in population or clinical datasets directly within R.
+This implementation also applies a chemically accurate conversion for added sugars (16.8 kcal per tsp-eq).
+
+---
 - 🪢 [Mediation Analysis in Genetic Association Studies](https://github.com/younghhk/Mediation-Analysis)
 
   A workflow guide for planning mediation analysis in observational cancer research.  
