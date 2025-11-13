@@ -9,9 +9,6 @@ An R-based implementation of the **Healthy Eating Index (HEI-2020)** scoring sys
 
 This tool reproduces the official **USDA/NCI methodology** for computing both total and component HEI-2020 scores, enabling researchers to evaluate dietary quality in population or clinical datasets directly within `R`.  
 
-It supports multiple NHANES waves (2005–2018) by automatically pairing each survey cycle with its corresponding FPED release.  
-In addition, this implementation applies a **chemically accurate conversion for added sugars** — **16.8 kcal per teaspoon-equivalent (4.2 g × 4 kcal/g)** — providing slightly greater precision than the rounded 16 kcal value used in the official SAS macro.
-
 ---
 - 🪢 [Mediation Analysis in Genetic Association Studies](https://github.com/younghhk/Mediation-Analysis)
 
