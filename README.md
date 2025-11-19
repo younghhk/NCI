@@ -3,27 +3,49 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 
 ## Contents
 
-- 🥗 [Software for Computing Healthy Eating Index (HEI)](https://github.com/younghhk/HEI)
 
-An R-based implementation of the **Healthy Eating Index (HEI-2020)** scoring system using **NHANES** and **Food Patterns Equivalents Database (FPED)** data.
+### 🥗 [Software for Computing Healthy Eating Index (HEI)](https://github.com/younghhk/HEI)
 
-This tool reproduces the official **USDA/NCI methodology** for computing both total and component HEI-2020 scores, enabling researchers to evaluate dietary quality in population or clinical datasets directly within `R`.  
+An R-based implementation of the **Healthy Eating Index (HEI-2020)** scoring system using **NHANES** and **FPED** data.
+
+This tool reproduces the official **USDA/NCI methodology** for computing total and component HEI-2020 scores, allowing researchers to evaluate dietary quality directly within `R`.
 
 ---
-- 🪢 [Mediation Analysis in Genetic Association Studies](https://github.com/younghhk/Mediation-Analysis)
 
-  A workflow guide for planning mediation analysis in observational cancer research.  
-This repository helps researchers identify the correct analytical framework based on study design — including outcome type, mediator dimensionality, and confounder structure — before model implementation.
+### 🪢 Mediation Analysis in Genetic Association Studies
+
+- [**Planning Mediation Analysis**](https://github.com/younghhk/Mediation-Analysis)  
+  A workflow for planning mediation analysis in observational cancer research.  
+  This resource helps researchers determine the appropriate analytical framework based on study design, including outcome type, mediator dimensionality, and confounder structure.
+
+- [**High-Dimensional Mediation Analysis**](https://github.com/younghhk/MOOR)  
+  A framework for mediation analysis in high-dimensional settings such as methylation, gene expression, and other omics data.
+
+🔒 Access to this repository is currently limited to authorized collaborators.
+
+---
+
+### 📘 Mixed-Effects Modeling
+
+- 📏 [**ICC for Sleep Measurements**](https://github.com/younghhk/Sleep)  
+  A guide to computing intraclass correlation coefficients (ICCs) in multilevel sleep data with day, season, and person effects.
+
+  This tutorial explains:
+  - how to specify the appropriate mixed-effects model  
+  - how to interpret ICC as a measure of reliability  
+  - how to compute ICC from model-based variance components  
+
+🔒 Access to this repository is currently limited to authorized collaborators.
 
 ---  
-- 📈 [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
+### 📈 [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
 
 A tool for estimating expected cancer cases using age- and sex-specific incidence and mortality rates, providing an automated framework for cohort-based cancer projections.
 
   🔒 Access to this repository is currently limited to authorized collaborators until the program is fully verified.
 
 ---
-- 🧮 [IBM-Calc: A Computational Tool for Estimating Age-Standardized Incidence-Based Mortality and Rate Ratio Confidence Intervals](https://github.com/younghhk/SEER)
+### 🧮 [IBM-Calc: A Computational Tool for Estimating Age-Standardized Incidence-Based Mortality and Rate Ratio Confidence Intervals](https://github.com/younghhk/SEER)
 
   This repository provides R functions to compute age-adjusted Incidence-Based Mortality (IBM) rates and rate ratios.
 The methods include adjustments for small-count bias and variance estimation, making them suitable for rare cancers and small populations.
@@ -32,14 +54,14 @@ The methods include adjustments for small-count bias and variance estimation, ma
 
 ---
 
-- 📊 [Meta-Analysis for Clinical Research](https://github.com/younghhk/Meta-Analysis)
+### 📊 [Meta-Analysis for Clinical Research](https://github.com/younghhk/Meta-Analysis)
 
    This repository provides an overview, key concepts, and essential formulas for performing meta-analysis in clinical research, including fixed-effect and random-effects models.
 
 ---  
-##  Survival Analysis
+###  Survival Analysis
 
-###  Topics
+
 
 - [Handling Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)  
   Explores methods to correctly handle **left truncation** and align entry times in Cox proportional hazards models.
@@ -51,8 +73,8 @@ The methods include adjustments for small-count bias and variance estimation, ma
   Covers the use of **machine learning algorithms** (e.g., random survival forests, deep learning, and gradient boosting) for survival prediction and risk stratification.
 
 ---
-##  Disparity Decomposition Methods
-###  Topics
+###  Disparity Decomposition Methods
+
 
 - [Peters–Belson Decomposition of the Proportion of Death](https://github.com/younghhk/Disparity-Decomposition#petersbelson-decomposition-on-the-proportion-of-death-black-vs-white)  
   Applies the **Peters–Belson framework** to estimate the proportion of survival disparities between groups (e.g., Black vs. White populations) explained by measurable risk factors versus residual differences.
@@ -66,9 +88,9 @@ The methods include adjustments for small-count bias and variance estimation, ma
 
 
 ---
-## Quantile Regression for Cancer Research: Beyond the Mean
+### Quantile Regression for Cancer Research: Beyond the Mean
 
-### Applications
+
 
 - Investigates whether **sex is associated differently across the telomere-length distribution**
 
@@ -77,7 +99,7 @@ The methods include adjustments for small-count bias and variance estimation, ma
 - Examines whether **race/ethnicity influences short-term versus long-term breast cancer survival differently**, capturing distributional heterogeneity often missed by mean-based models.
 
 ---
-## 🧠 High-Dimensional Statistical and Machine Learning Methods
+### 🧠 High-Dimensional Statistical and Machine Learning Methods
 
 ### Recent Works
 
@@ -114,7 +136,7 @@ The methods include adjustments for small-count bias and variance estimation, ma
  ---
 
 
-## 🧑‍💻 Author
+### 🧑‍💻 Author
 
 **Hyokyoung "Grace" Hong**  
 📧 [grace.hong@nih.gov](mailto:grace.hong@nih.gov)  
