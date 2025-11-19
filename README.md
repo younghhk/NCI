@@ -91,10 +91,9 @@ The methods include adjustments for small-count bias and variance estimation, ma
 ### Quantile Regression for Cancer Research: Beyond the Mean
 
 
+- Investigates how demographic factors relate to leukocyte telomere length measured with Southern blot and qPCR (under revision).
 
-- Investigates whether **sex is associated differently across the telomere-length distribution**
-
-- Identifies **CpG sites linked to elevated LINE-1 activity** (via total transposable element counts) 
+- [Identifies CpG sites associated with shorter and longer cancer survival](https://academic.oup.com/pcm/article/2/2/90/5520072).
 
 - Examines whether **race/ethnicity influences short-term versus long-term breast cancer survival differently**, capturing distributional heterogeneity often missed by mean-based models.
 
