@@ -18,7 +18,7 @@ This tool reproduces the official **USDA/NCI methodology** for computing total a
   A workflow for planning mediation analysis in observational cancer research.  
   This resource helps researchers determine the appropriate analytical framework based on study design, including outcome type, mediator dimensionality, and confounder structure.
 
-- [**High-Dimensional Mediation Analysis**](https://github.com/younghhk/MOOR)  
+- [**High-Dimensional Mediation Analysis**](https://github.com/younghhk/Moore)  
   A framework for mediation analysis in high-dimensional settings such as methylation, gene expression, and other omics data.
 
 🔒 Access to this repository is currently limited to authorized collaborators.
