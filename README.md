@@ -28,7 +28,7 @@ This tool reproduces the official **USDA/NCI methodology** for computing total a
 ### 📘 Mixed-Effects Modeling
 
 - 📏 [**ICC for Sleep Measurements**](https://github.com/younghhk/Sleep)  
-  A guide to computing intraclass correlation coefficients (ICCs) in multilevel sleep data with day, season, and person effects.
+ A guide to computing intraclass correlation coefficients (ICCs) in multilevel sleep data with day, assessment window, and person effects.
 
   This tutorial explains:
   - how to specify the appropriate mixed-effects model  
