@@ -38,6 +38,13 @@ This tool reproduces the official **USDA/NCI methodology** for computing total a
 🔒 Access to this repository is currently limited to authorized collaborators.
 
 ---  
+
+### 🧩 [Handling Missing Data](https://github.com/younghhk/MI)
+
+Guidance on MCAR, MAR, and MNAR mechanisms.
+
+---
+
 ### 📈 [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
 
 A tool for estimating expected cancer cases using age- and sex-specific incidence and mortality rates, providing an automated framework for cohort-based cancer projections.
