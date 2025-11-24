@@ -38,6 +38,13 @@ This tool reproduces the official **USDA/NCI methodology** for computing total a
 🔒 Access to this repository is currently limited to authorized collaborators.
 
 ---  
+### 📘 [LMM/GLMM vs GEE](https://github.com/younghhk/MM)
+
+A tutorial comparing mixed-effects models and generalized estimating equations for longitudinal and clustered epidemiologic data.
+It explains the differences in interpretation, assumptions, and correlation structures to guide proper method selection.
+
+---
+
 
 ### 🧩 [Handling Missing Data](https://github.com/younghhk/MI)
 
