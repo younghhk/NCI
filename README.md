@@ -24,6 +24,15 @@ This tool reproduces the official **USDA/NCI methodology** for computing total a
 🔒 Access to this repository is currently limited to authorized collaborators.
 
 ---
+### 📉 [Absolute Risk vs Relative Risk](https://github.com/younghhk/AR-RR)
+
+ An overview of absolute and relative risk, including:
+-  how each measure is interpreted
+-  when each scale is most informative
+-   examples of additive versus multiplicative interaction
+
+
+---
 
 ### 📘 Mixed-Effects Modeling
 
