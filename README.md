@@ -3,6 +3,10 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 
 ## Contents
 
+### 🔍 [Variable Selection and Stability in High-Dimensional Data](https://github.com/younghhk/VS)
+
+Tools for high-dimensional biomarker selection using **LASSO**, **Elastic Net**, **Group LASSO** and **Stability Selection**, supporting reproducible variable selection and poly-biomarker score development.
+
 
 ### 🥗 [Software for Computing Healthy Eating Index (HEI)](https://github.com/younghhk/HEI)
 
