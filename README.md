@@ -142,15 +142,15 @@ The methods include adjustments for small-count bias and variance estimation, ma
 
 ### Earlier Developments
 
-- Sequentially Conditional GLMs (2020)
+- [Sequentially Conditional GLMs (2020)](https://pubmed.ncbi.nlm.nih.gov/31350909/)
 
-- Multiclass LDA with Ultrahigh-Dimensional Features (2019)
+- [Multiclass LDA with Ultrahigh-Dimensional Features (2019)](https://pubmed.ncbi.nlm.nih.gov/31009070/)
 
-- Forward Regression for Cox Models (2019)
+- [Forward Regression for Cox Models (2019)](https://pubmed.ncbi.nlm.nih.gov/31007300/)
 
-- Lq-Norm Learning (2018)
+- [Lq-Norm Learning (2018)](https://pubmed.ncbi.nlm.nih.gov/32742137/)
 
-- [IPOD Screening (2018)](https://doi.org/10.1111/biom.12820)
+- [IPOD: Screening ultrahigh dimensional covariates with survival outcomes (2018)](https://doi.org/10.1111/biom.12820)
 
 - [Conditional Screening with Survival Data (2018)](https://doi.org/10.1007/s10985-016-9387-7)
 
