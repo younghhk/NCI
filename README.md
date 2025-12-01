@@ -21,7 +21,7 @@ This tool reproduces the official **USDA/NCI methodology** for computing total a
 - [**High-Dimensional Mediation Analysis**](https://github.com/younghhk/Moore)  
   A framework for mediation analysis in high-dimensional settings such as methylation, gene expression, and other omics data.
 
-🔒 Access to this repository is currently limited to authorized collaborators.
+
 
 ---
 ### 📉 [Absolute Risk vs Relative Risk](https://github.com/younghhk/AR-RR)
