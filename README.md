@@ -7,12 +7,14 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 
 Tools for high-dimensional biomarker selection using **LASSO**, **Elastic Net**, **Group LASSO** and **Stability Selection**, supporting reproducible variable selection and poly-biomarker score development.
 
+---
 
-### 🥗 [Software for Computing Healthy Eating Index (HEI)](https://github.com/younghhk/HEI)
 
-An R-based implementation of the **Healthy Eating Index (HEI-2020)** scoring system using **NHANES** and **FPED** data.
+### 🧩 [Handling Missing Data](https://github.com/younghhk/MI)
 
-This tool reproduces the official **USDA/NCI methodology** for computing total and component HEI-2020 scores, allowing researchers to evaluate dietary quality directly within `R`.
+Guidance on identifying **MCAR**, **MAR**, and **MNAR** missingness mechanisms, with practical strategies tailored to each scenario.
+
+
 
 ---
 
@@ -58,12 +60,14 @@ It explains the differences in interpretation, assumptions, and correlation stru
 
 ---
 
+### 🥗 [Software for Computing Healthy Eating Index (HEI)](https://github.com/younghhk/HEI)
 
-### 🧩 [Handling Missing Data](https://github.com/younghhk/MI)
+An R-based implementation of the **Healthy Eating Index (HEI-2020)** scoring system using **NHANES** and **FPED** data.
 
-Guidance on MCAR, MAR, and MNAR mechanisms.
+This tool reproduces the official **USDA/NCI methodology** for computing total and component HEI-2020 scores, allowing researchers to evaluate dietary quality directly within `R`.
 
 ---
+
 
 ### 📈 [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
 
