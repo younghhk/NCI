@@ -30,6 +30,21 @@ Guidance on identifying **MCAR**, **MAR**, and **MNAR** missingness mechanisms, 
 
 
 ---
+
+### 📈 [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
+
+A tool for estimating expected cancer cases using age- and sex-specific incidence and mortality rates, providing an automated framework for cohort-based cancer projections.
+
+---
+### 🧮 [IBM-Calc: A Computational Tool for Estimating Age-Standardized Incidence-Based Mortality and Rate Ratio Confidence Intervals](https://github.com/younghhk/SEER)
+
+  This repository provides R functions to compute age-adjusted Incidence-Based Mortality (IBM) rates and rate ratios.
+The methods include adjustments for small-count bias and variance estimation, making them suitable for rare cancers and small populations.
+
+  🔒 Access to this repository is currently limited to authorized collaborators until the program is fully verified.
+
+---
+
 ### 📉 [Absolute Risk vs Relative Risk](https://github.com/younghhk/AR-RR)
 
  An overview of absolute and relative risk, including:
@@ -66,24 +81,9 @@ An R-based implementation of the **Healthy Eating Index (HEI-2020)** scoring sys
 
 This tool reproduces the official **USDA/NCI methodology** for computing total and component HEI-2020 scores, allowing researchers to evaluate dietary quality directly within `R`.
 
----
-
-
-### 📈 [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
-
-A tool for estimating expected cancer cases using age- and sex-specific incidence and mortality rates, providing an automated framework for cohort-based cancer projections.
-
-  🔒 Access to this repository is currently limited to authorized collaborators until the program is fully verified.
 
 ---
-### 🧮 [IBM-Calc: A Computational Tool for Estimating Age-Standardized Incidence-Based Mortality and Rate Ratio Confidence Intervals](https://github.com/younghhk/SEER)
 
-  This repository provides R functions to compute age-adjusted Incidence-Based Mortality (IBM) rates and rate ratios.
-The methods include adjustments for small-count bias and variance estimation, making them suitable for rare cancers and small populations.
-
-  🔒 Access to this repository is currently limited to authorized collaborators until the program is fully verified.
-
----
 
 ### 📊 [Meta-Analysis for Clinical Research](https://github.com/younghhk/Meta-Analysis)
 
