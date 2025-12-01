@@ -105,7 +105,7 @@ The methods include adjustments for small-count bias and variance estimation, ma
 - [Peters–Belson Decomposition of the Proportion of Death](https://github.com/younghhk/Disparity-Decomposition#petersbelson-decomposition-on-the-proportion-of-death-black-vs-white)  
   Applies the **Peters–Belson framework** to estimate the proportion of survival disparities between groups (e.g., Black vs. White populations) explained by measurable risk factors versus residual differences.
 
-- [Quantile-Based Disparity Decomposition for Complex Survey Data (Upper-Tail BMI / Lower-Tail Telomere)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12456447/)  
+- [Quantile-Based Disparity Decomposition for Complex Survey Data](https://pmc.ncbi.nlm.nih.gov/articles/PMC12456447/)  
   Applies **quantile-based decomposition methods** to complex survey data, analyzing disparities across specific portions of the distribution (e.g., upper-tail BMI or lower-tail telomere length) to uncover subgroup-specific effects often obscured by mean-based approaches.
 
 - [Decomposition of Longitudinal Disparities](https://doi.org/10.10093/biostatistics/kxaf044) *(in press, available soon)*  
