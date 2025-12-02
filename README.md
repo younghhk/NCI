@@ -28,7 +28,15 @@ Guidance on identifying **MCAR**, **MAR**, and **MNAR** missingness mechanisms, 
   A framework for mediation analysis in high-dimensional settings such as methylation, gene expression, and other omics data.
 
 
+---
+### 🔬 [IDATA Metabolomics Project](https://github.com/younghhk/IDATA)
 
+The [Interactive Diet and Activity Tracking in AARP (IDATA)](https://cdas.cancer.gov/datasets/idata/) study is a biomarker validation project evaluating internet-based and conventional self-reported measures of diet and physical activity. IDATA is registered at ClinicalTrials.gov (NCT03268577). Data collection began in early 2012 and concluded in late 2013, with 1,082 participants screened by phone, assessed at the clinic, and consented for data use.
+
+This repository contains the metabolomics analysis developed in collaboration with project investigators.
+
+🔒 Access to this repository is currently restricted to authorized collaborators until the project undergoes full internal validation.
+  
 ---
 
 ### 📈 [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
