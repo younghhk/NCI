@@ -149,19 +149,30 @@ Evaluating disparities that evolve over follow-up.
 ##  High-Dimensional Statistical Learning
 
 ### [Variable Selection & Stability](https://github.com/younghhk/VS)
+Tools for high-dimensional biomarker selection using **LASSO**, **Elastic Net**, **Group LASSO**, and **Stability Selection**, supporting reproducible variable selection and score development.
 
-High-dimensional biomarker selection using LASSO, Elastic Net, Group LASSO, and Stability Selection.
 
-### Recent Methodological Work
+###  Recent Methodological Work
 
-* Genetic effects in longitudinal phenotypes (2025)
-* Quantile forward regression for survival (2023)
-* KNN–LASSO regional quantile modeling (2023)
-* Conditional quantile inference for censored data (2023)
+- [Genetic Effects in Longitudinal Phenotypes (2025)](https://pubmed.ncbi.nlm.nih.gov/40893136/)
+- [Quantile Forward Regression for High-Dimensional Survival (2023)](https://doi.org/10.1007/s10985-023-09603-w)
+- [Varying-Coefficient Regional Quantile via KNN–LASSO (2023)](https://doi.org/10.1002/sim.9839)
+- [Inference for High-Dimensional Censored Quantile Regression (2023)](https://pubmed.ncbi.nlm.nih.gov/37309513/)
 
-### Earlier Developments
 
-(Feature screening, ultrahigh-dimensional LDA, IPOD, sequential GLMs, etc.)
+
+###  Earlier Developments  
+*(Foundational contributions that shaped later work)*
+
+- [Sequentially Conditional GLMs (2020)](https://pubmed.ncbi.nlm.nih.gov/31350909/)
+- [Multiclass LDA with Ultrahigh-Dimensional Features (2019)](https://pubmed.ncbi.nlm.nih.gov/31009070/)
+- [Forward Regression for Cox Models (2019)](https://pubmed.ncbi.nlm.nih.gov/31007300/)
+- [Lq-Norm Learning (2018)](https://pubmed.ncbi.nlm.nih.gov/32742137/)
+- [IPOD: Screening Ultrahigh-Dimensional Covariates with Survival Outcomes (2018)](https://doi.org/10.1111/biom.12820)
+- [Conditional Screening with Survival Data (2018)](https://doi.org/10.1007/s10985-016-9387-7)
+- [Partition-Based Screening (2017)](https://doi.org/10.1093/biomet/asx052)
+- [Quantile-Adaptive Model-Free Screening (2013)](https://doi.org/10.1214/13-AOS1087)
+
 
 ---
 ##  Radiation Epidemiology
