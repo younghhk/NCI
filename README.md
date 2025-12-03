@@ -21,7 +21,7 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 - [Datasets & Codebooks](#datasets--codebooks)
 
 ---
-##  Core Epidemiologic Concepts 
+##  Core Epidemiologic Concepts
 
 *(Foundational topics used across all domains)*
 
@@ -52,7 +52,7 @@ R functions for computing age-standardized Incidence-Based Mortality (IBM) rates
 
 
 ---
-## Physical Activity & Sleep Epidemiology 
+## Physical Activity & Sleep Epidemiology
 
 ### [Attributes Associated with Physical Activity Outcomes Using Machine Learning](https://github.com/younghhk/Kebede)
 
@@ -71,7 +71,7 @@ Tutorial on computing ICCs in multilevel sleep data with day-, window-, and pers
 Comparison of mixed-effects models vs GEE for clustered and longitudinal epidemiologic data.
 
 ---
-##  Nutritional Epidemiology & Diet Quality 
+##  Nutritional Epidemiology & Diet Quality
 
 ### [Healthy Eating Index (HEI) Software](https://github.com/younghhk/HEI)
 
@@ -84,7 +84,7 @@ Metabolomics analyses from the **IDATA** biomarker validation study evaluating d
 🔒 Access restricted to authorized collaborators.
 
 ---
-##  Causal & Mediation Methods 
+##  Causal & Mediation Methods
 
 ### [Planning Mediation Analysis](https://github.com/younghhk/Mediation-Analysis)
 
@@ -98,14 +98,14 @@ Mediation methods tailored for high-dimensional omics data such as methylation a
 
 
 ---
-##  Meta-Analysis & Evidence Synthesis 
+##  Meta-Analysis & Evidence Synthesis
 
 ### [Meta-Analysis for Clinical Research](https://github.com/younghhk/Meta-Analysis)
 
 Key concepts, formulas, and methods for fixed-effect and random-effects meta-analysis.
 
 ---
-##  Survival Analysis & Methods Development  
+##  Survival Analysis & Methods Development
 
 ### [Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)
 
@@ -124,7 +124,7 @@ Applications of RSF, neural networks, and boosting for risk prediction.
 Identifying CpGs and molecular markers associated with short or long cancer survival.
 
 ---
-##  Health Disparities & Decomposition Methods 
+##  Health Disparities & Decomposition Methods
 
 ### [Peters–Belson Decomposition](https://github.com/younghhk/Disparity-Decomposition#petersbelson-decomposition-on-the-proportion-of-death-black-vs-white)
 
@@ -139,14 +139,14 @@ Distributional disparity analyses for complex survey data.
 Evaluating disparities that evolve over follow-up.
 
 ---
-##  Quantile Methods in Cancer Research 
+##  Quantile Methods in Cancer Research
 
 * Demographic associations with leukocyte telomere length (in revision)
 * [CpG associations with short vs long cancer survival](https://academic.oup.com/pcm/article/2/2/90/5520072)
 * Distributional analyses of racial/ethnic disparities in breast cancer survival
 
 --- 
-##  High-Dimensional Statistical Learning 
+##  High-Dimensional Statistical Learning
 
 ### [Variable Selection & Stability](https://github.com/younghhk/VS)
 
@@ -164,7 +164,7 @@ High-dimensional biomarker selection using LASSO, Elastic Net, Group LASSO, and 
 (Feature screening, ultrahigh-dimensional LDA, IPOD, sequential GLMs, etc.)
 
 ---
-##  Radiation Epidemiology 
+##  Radiation Epidemiology
 
 ### [Radiation Epidemiology Risk Modeling in R](https://github.com/younghhk/Radiation-epi)
 
@@ -172,14 +172,14 @@ Overview of **Colossus** and **Epicure** for dose–response modeling, survival 
 
 
 ---
-##  Clinical Trials Methods 
+##  Clinical Trials Methods
 
 ### [Training Resources](https://github.com/younghhk/ClinicalTrials)
 
 Materials on clinical trial design, power, sample size, and key methodological principles.
 
 ---
-##  Datasets & Codebooks 
+##  Datasets & Codebooks
 
 ### [NHANES](https://github.com/younghhk/NHANES)
 
