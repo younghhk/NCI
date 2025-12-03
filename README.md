@@ -1,230 +1,198 @@
-# 🧬 Cancer Research Software Repository
+
+# Cancer Research Software Repository
+
 A collection of tools for modeling cancer incidence, survival, biomarker selection, and risk prediction model development — designed to advance reproducible and data-driven cancer research.
 
-## Contents
+---
 
-## Core Epidemiologic Concepts
-
-###  [Absolute Risk vs Relative Risk](https://github.com/younghhk/AR-RR)
-
- An overview of absolute and relative risk, including:
--  how each measure is interpreted
--  when each scale is most informative
--   examples of additive versus multiplicative interaction
-
-###  [Handling Missing Data](https://github.com/younghhk/MI)
-
-Guidance on identifying **MCAR**, **MAR**, and **MNAR** missingness mechanisms, with practical strategies tailored to each scenario.
-
+# ## 📑 Contents
 
 ---
 
-##  Population Health & Cancer Surveillance Research
+# ## 📚 Core Epidemiologic Concepts
 
-###  [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
+*(Foundational topics used across all domains)*
 
-A tool for estimating expected cancer cases using age- and sex-specific incidence and mortality rates, providing an automated framework for cohort-based cancer projections.
+### [Absolute Risk vs Relative Risk](https://github.com/younghhk/AR-RR)
 
-###  [IBM-Calc: A Computational Tool for Estimating Age-Standardized Incidence-Based Mortality and Rate Ratio Confidence Intervals](https://github.com/younghhk/SEER)
+An overview of absolute and relative risk, including:
 
-  This repository provides R functions to compute age-adjusted Incidence-Based Mortality (IBM) rates and rate ratios.
-The methods include adjustments for small-count bias and variance estimation, making them suitable for rare cancers and small populations.
+* interpretation of each measure
+* when each scale is most informative
+* examples of additive versus multiplicative interaction
 
-  🔒 Access to this repository is currently limited to authorized collaborators until the program is fully verified.
+### [Handling Missing Data](https://github.com/younghhk/MI)
 
-
-
----
-##  Physical Activity & Sleep Epidemiology
-
-### [**Attributes Associated with Physical Activity Outcomes Using Machine Learning**](https://github.com/younghhk/Kebede)
-
-This project uses machine learning to examine demographic, socioeconomic, health, and other individual attributes associated with physical activity. Two physical activity outcomes are analyzed separately, and key attributes are used to identify data-driven subgroups for comparing activity patterns across different population profiles.
-
-🔒 Access to this repository is currently restricted to authorized collaborators.
-
-
-
-
-###  [**ICC for Sleep Measurements**](https://github.com/younghhk/Sleep)
-
-A tutorial on computing intraclass correlation coefficients (ICCs) in multilevel sleep data with day-, window-, and person-level effects.
-
-This guide covers:
-
-- Specifying the correct mixed-effects model  
-- Interpreting ICCs as reliability metrics  
-- Estimating ICCs using model-based variance components  
-
-🔒 Access to this repository is currently restricted to authorized collaborators.
-
-
-
-###  [**LMM/GLMM vs GEE**](https://github.com/younghhk/MM)
-
-A tutorial comparing mixed-effects models and generalized estimating equations for longitudinal and clustered epidemiologic data. It outlines key differences in interpretation, assumptions, and correlation structures to support appropriate method selection.
-
-
-
+Guidance on identifying **MCAR**, **MAR**, and **MNAR** mechanisms, with recommended strategies tailored to each type of missingness.
 
 ---
 
-##  Nutritional Epidemiology & Diet Quality
-###  [Software for Computing Healthy Eating Index (HEI)](https://github.com/younghhk/HEI)
+# ## 🧬 Population Health & Cancer Surveillance Research
 
-An R-based implementation of the **Healthy Eating Index (HEI-2020)** scoring system using **NHANES** and **FPED** data.
+### [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
 
-This tool reproduces the official **USDA/NCI methodology** for computing total and component HEI-2020 scores, allowing researchers to evaluate dietary quality directly within `R`.
+A tool for estimating expected cancer cases using age- and sex-specific incidence and mortality rates, providing an automated framework for cancer projections.
 
-###  [IDATA Metabolomics Project](https://github.com/younghhk/IDATA)
+### [IBM-Calc](https://github.com/younghhk/SEER)
 
-The [Interactive Diet and Activity Tracking in AARP (IDATA)](https://cdas.cancer.gov/datasets/idata/) study is a biomarker validation project evaluating internet-based and conventional self-reported measures of diet and physical activity. IDATA is registered at ClinicalTrials.gov (NCT03268577). Data collection began in early 2012 and concluded in late 2013, with 1,082 participants screened by phone, assessed at the clinic, and consented for data use.
+R functions for computing age-standardized Incidence-Based Mortality (IBM) rates and rate ratios, including methods to address small-count bias and variance estimation.
 
-This repository contains the metabolomics analysis developed in collaboration with project investigators.
-
-🔒 Access to this repository is currently restricted to authorized collaborators until the project undergoes full internal validation.
-  
----
-##  Causal & Mediation Methods
-
-###  Mediation Analysis in Genetic Association Studies**](https://github.com/younghhk/Mediation-Analysis)  
-  A workflow for planning mediation analysis in observational cancer research.  
-  This resource helps researchers determine the appropriate analytical framework based on study design, including outcome type, mediator dimensionality, and confounder structure.
-
-- [**High-Dimensional Mediation Analysis**](https://github.com/younghhk/Moore)  
-  A framework for mediation analysis in high-dimensional settings such as methylation, gene expression, and other omics data.
-
-🔒 Access to this repository is currently restricted to authorized collaborators until the project undergoes full internal validation.
-
+🔒 Access currently limited to authorized collaborators.
 
 ---
-##  Meta-Analysis & Evidence Synthesis
 
-###  [Meta-Analysis for Clinical Research](https://github.com/younghhk/Meta-Analysis)
+# ## 🏃‍♂️🛌 Physical Activity & Sleep Epidemiology
 
-   This repository provides an overview, key concepts, and essential formulas for performing meta-analysis in clinical research, including fixed-effect and random-effects models.
+### [Attributes Associated with Physical Activity Outcomes Using Machine Learning](https://github.com/younghhk/Kebede)
 
----  
-##   Survival Analysis & Methods Development
+Machine learning applied to demographic, socioeconomic, health, and other individual attributes to characterize associations with two physical activity outcomes analyzed separately.
 
+🔒 Access restricted to authorized collaborators.
 
-- [Handling Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)  
-  Explores methods to correctly handle **left truncation** and align entry times in Cox proportional hazards models.
+### [ICC for Sleep Measurements](https://github.com/younghhk/Sleep)
 
-- [Adjusted Survival Curve Estimation from the Cox Proportional Hazards Model](https://github.com/younghhk/Survival-Analysis#sec-adjusted-survival)  
-  Demonstrates how to estimate **adjusted survival curves** that account for covariate distributions or population-level effects.
+Tutorial on computing ICCs in multilevel sleep data with day-, window-, and person-level variance components.
 
+🔒 Access restricted to authorized collaborators.
 
-- [Survival Prediction Using Machine Learning](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)  
-  Covers the use of **machine learning algorithms** (e.g., random survival forests, deep learning, and gradient boosting) for survival prediction and risk stratification.
+### [LMM/GLMM vs GEE](https://github.com/younghhk/MM)
 
-- [Identifies biomarkers linked to shorter and longer cancer survival](https://academic.oup.com/pcm/article/2/2/90/5520072).
-  
----
-
-##  Health Disparities & Decomposition Methods
-
-
-- [Peters–Belson Decomposition of the Proportion of Death](https://github.com/younghhk/Disparity-Decomposition#petersbelson-decomposition-on-the-proportion-of-death-black-vs-white)  
-  Applies the **Peters–Belson framework** to estimate the proportion of survival disparities between groups (e.g., Black vs. White populations) explained by measurable risk factors versus residual differences.
-
-- [Quantile-Based Disparity Decomposition for Complex Survey Data](https://pmc.ncbi.nlm.nih.gov/articles/PMC12456447/)  
-  Applies **quantile-based decomposition methods** to complex survey data, analyzing disparities across specific portions of the distribution (e.g., upper-tail BMI or lower-tail telomere length) to uncover subgroup-specific effects often obscured by mean-based approaches.
-
-- [Decomposition of Longitudinal Disparities](https://doi.org/10.10093/biostatistics/kxaf044) *(in press, available soon)*  
-  Extends decomposition techniques to evaluate how disparities **evolve dynamically over follow-up time**.
-
-
+Comparison of mixed-effects models vs GEE for clustered and longitudinal epidemiologic data.
 
 ---
-## Quantile Methods for Cancer Research
 
+# ## 🥗 Nutritional Epidemiology & Diet Quality
 
-- Investigates how demographic factors relate to leukocyte telomere length measured with Southern blot and qPCR (under revision).
+### [Healthy Eating Index (HEI) Software](https://github.com/younghhk/HEI)
 
-- [Identifies CpG sites associated with shorter and longer cancer survival](https://academic.oup.com/pcm/article/2/2/90/5520072).
+R-based implementation of **HEI-2020** using NHANES and FPED, following USDA/NCI scoring methodology.
 
-- Examines whether **race/ethnicity influences short-term versus long-term breast cancer survival differently**, capturing distributional heterogeneity often missed by mean-based models.
+### [IDATA Metabolomics Project](https://github.com/younghhk/IDATA)
+
+Metabolomics analyses from the **IDATA** biomarker validation study evaluating diet and activity reporting.
+
+🔒 Access restricted to authorized collaborators.
 
 ---
-##  High-Dimensional Statistical Learning
 
+# ## 🔗 Causal & Mediation Methods
 
-###  [Variable Selection and Stability in High-Dimensional Data](https://github.com/younghhk/VS)
+### [Planning Mediation Analysis](https://github.com/younghhk/Mediation-Analysis)
 
-Tools for high-dimensional biomarker selection using **LASSO**, **Elastic Net**, **Group LASSO** and **Stability Selection**, supporting reproducible variable selection and poly-biomarker score development.
+Framework for selecting appropriate mediation analysis strategies in observational cancer research.
 
+### [High-Dimensional Mediation Analysis](https://github.com/younghhk/Moore)
 
+Mediation methods tailored for high-dimensional omics data such as methylation and gene expression.
 
-### Recent Works
+🔒 Access restricted to authorized collaborators.
 
-- [Mixed Modeling Approach for Genetic Effects in Longitudinal Phenotypes (2025)](https://pubmed.ncbi.nlm.nih.gov/40893136/)
+---
 
-- [Quantile Forward Regression for High-Dimensional Survival Data (2023)](https://doi.org/10.1007/s10985-023-09603-w)
+# ## 📊 Meta-Analysis & Evidence Synthesis
 
-- [Varying-Coefficient Regional Quantile via KNN–LASSO (2023)](https://doi.org/10.1002/sim.9839)
+### [Meta-Analysis for Clinical Research](https://github.com/younghhk/Meta-Analysis)
 
-- Discovery of Gene-Specific Time Effects on Survival (2024) — *Book Chapter*
+Key concepts, formulas, and methods for fixed-effect and random-effects meta-analysis.
 
-- [Inference for High-Dimensional Censored Quantile Regression (2023)](https://pubmed.ncbi.nlm.nih.gov/37309513/)
+---
 
+# ## 📉 Survival Analysis & Methods Development
 
+### [Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)
+
+Handling left truncation and aligning study entry times.
+
+### [Adjusted Survival Curves](https://github.com/younghhk/Survival-Analysis#sec-adjusted-survival)
+
+Estimating covariate-adjusted survival curves from Cox models.
+
+### [Survival Prediction Using Machine Learning](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)
+
+Applications of RSF, neural networks, and boosting for risk prediction.
+
+### [Biomarker Identification for Survival](https://academic.oup.com/pcm/article/2/2/90/5520072)
+
+Identifying CpGs and molecular markers associated with short or long cancer survival.
+
+---
+
+# ## ⚖️ Health Disparities & Decomposition Methods
+
+### [Peters–Belson Decomposition](https://github.com/younghhk/Disparity-Decomposition#petersbelson-decomposition-on-the-proportion-of-death-black-vs-white)
+
+Quantifying survival disparities explained by measurable vs residual factors.
+
+### [Quantile-Based Decomposition](https://pmc.ncbi.nlm.nih.gov/articles/PMC12456447/)
+
+Distributional disparity analyses for complex survey data.
+
+### [Longitudinal Disparity Decomposition](https://doi.org/10.10093/biostatistics/kxaf044)
+
+Evaluating disparities that evolve over follow-up.
+
+---
+
+# ## 📈 Quantile Methods in Cancer Epidemiology
+
+* Demographic associations with leukocyte telomere length (in revision)
+* [CpG associations with short vs long cancer survival](https://academic.oup.com/pcm/article/2/2/90/5520072)
+* Distributional analyses of racial/ethnic disparities in breast cancer survival
+
+---
+
+# ## 🧠 High-Dimensional Statistical Learning
+
+### [Variable Selection & Stability](https://github.com/younghhk/VS)
+
+High-dimensional biomarker selection using LASSO, Elastic Net, Group LASSO, and Stability Selection.
+
+### Recent Methodological Work
+
+* Genetic effects in longitudinal phenotypes (2025)
+* Quantile forward regression for survival (2023)
+* KNN–LASSO regional quantile modeling (2023)
+* Conditional quantile inference for censored data (2023)
 
 ### Earlier Developments
 
-- [Sequentially Conditional GLMs (2020)](https://pubmed.ncbi.nlm.nih.gov/31350909/)
-
-- [Multiclass LDA with Ultrahigh-Dimensional Features (2019)](https://pubmed.ncbi.nlm.nih.gov/31009070/)
-
-- [Forward Regression for Cox Models (2019)](https://pubmed.ncbi.nlm.nih.gov/31007300/)
-
-- [Lq-Norm Learning (2018)](https://pubmed.ncbi.nlm.nih.gov/32742137/)
-
-- [IPOD: Screening ultrahigh dimensional covariates with survival outcomes (2018)](https://doi.org/10.1111/biom.12820)
-
-- [Conditional Screening with Survival Data (2018)](https://doi.org/10.1007/s10985-016-9387-7)
-
-- [Partition-Based Screening (2017)](https://doi.org/10.1093/biomet/asx052)
-
-- [Quantile-Adaptive Model-Free Screening (2013)](https://doi.org/10.1214/13-AOS1087)
+(Feature screening, ultrahigh-dimensional LDA, IPOD, sequential GLMs, etc.)
 
 ---
-##  Radiation Epidemiology
+
+# ## ☢️ Radiation Epidemiology
 
 ### [Radiation Epidemiology Risk Modeling in R](https://github.com/younghhk/Radiation-epi)
 
-Radiation epidemiology requires robust statistical tools to analyze dose–response relationships, time-to-event outcomes, and relative risk in large cohort datasets.  This repository provides a concise introduction to two frameworks widely used in radiation risk modeling—**Colossus** and **Epicure**—with example code, model comparisons, and guidance on when to use each.  
-
-
----
-## 🔬 Clinical Trials Methods
-
-###  [Training Resources](https://github.com/younghhk/ClinicalTrials)
-A collection of training materials on clinical trial design, sample size, power, and essential principles used in clinical research.
+Overview of **Colossus** and **Epicure** for dose–response modeling, survival analysis, and radiation risk estimation.
 
 ---
 
- 
-##  📁 Datasets & Codebooks
+# ## 🔬 Clinical Trials Methods
+
+### [Training Resources](https://github.com/younghhk/ClinicalTrials)
+
+Materials on clinical trial design, power, sample size, and key methodological principles.
+
+---
+
+# ## 📁 Datasets & Codebooks
 
 ### [NHANES](https://github.com/younghhk/NHANES)
-A resource page for the National Health and Nutrition Examination Survey (NHANES), a CDC program that collects interview and examination data from a nationally representative sample of the United States population.
+
+Documentation, variable descriptions, and examples for the National Health and Nutrition Examination Survey.
 
 ---
 
-### 🧑‍💻 Author
+# 👤 Author
 
-**Hyokyoung "Grace" Hong**  
-📧 [grace.hong@nih.gov](mailto:grace.hong@nih.gov)  
+**Hyokyoung "Grace" Hong**
+📧 [grace.hong@nih.gov](mailto:grace.hong@nih.gov)
 
-Senior Investigator<br>
-Biostatistics Branch<br>
-Division of Cancer Epidemiology and Genetics<br>
-National Cancer Institute<br>
-National Institutes of Health
-
-💬 For questions, feedback, or collaboration inquiries, please feel free to reach out via email.
-
-
+Senior Investigator </br>
+Biostatistics Branch </br>
+Division of Cancer Epidemiology and Genetics </br>
+National Cancer Institute </br>
+National Institutes of Health </br>
 
 
