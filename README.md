@@ -5,7 +5,6 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 
 ---
 
-
 ## 📑 Contents
 
 - [Core Epidemiologic Concepts](#core-epidemiologic-concepts)
@@ -13,7 +12,7 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 - [Physical Activity & Sleep Epidemiology](#physical-activity--sleep-epidemiology)
 - [Nutritional Epidemiology & Diet Quality](#nutritional-epidemiology--diet-quality)
 - [Causal & Mediation Methods](#causal--mediation-methods)
-- [Meta-Analysis & Evidence-Synthesis](#meta-analysis--evidence-synthesis)
+- [Meta-Analysis & Evidence Synthesis](#meta-analysis--evidence-synthesis)
 - [Survival Analysis & Methods Development](#survival-analysis--methods-development)
 - [Health Disparities & Decomposition Methods](#health-disparities--decomposition-methods)
 - [Quantile Methods in Cancer Epidemiology](#quantile-methods-in-cancer-epidemiology)
