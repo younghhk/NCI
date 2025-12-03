@@ -27,6 +27,8 @@ Guidance on identifying **MCAR**, **MAR**, and **MNAR** missingness mechanisms, 
 - [**High-Dimensional Mediation Analysis**](https://github.com/younghhk/Moore)  
   A framework for mediation analysis in high-dimensional settings such as methylation, gene expression, and other omics data.
 
+🔒 Access to this repository is currently restricted to authorized collaborators until the project undergoes full internal validation.
+
 
 ---
 ### 🔬 [IDATA Metabolomics Project](https://github.com/younghhk/IDATA)
