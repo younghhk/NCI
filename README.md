@@ -175,6 +175,13 @@ This tool reproduces the official **USDA/NCI methodology** for computing total a
 - [Quantile-Adaptive Model-Free Screening (2013)](https://doi.org/10.1214/13-AOS1087)
 
  ---
+
+### ☢️ [Radiation Epidemiology Risk Modeling in R](https://github.com/younghhk/Radiation-epi)
+
+Radiation epidemiology requires robust statistical tools to analyze dose–response relationships, time-to-event outcomes, and relative risk in large cohort datasets.  This repository provides a concise introduction to two frameworks widely used in radiation risk modeling—**Colossus** and **Epicure**—with example code, model comparisons, and guidance on when to use each.  
+
+---
+ 
 ## Datasets
 
 ### 📁 [NHANES](https://github.com/younghhk/NHANES)
