@@ -188,7 +188,7 @@ Documentation, variable descriptions, and examples for the National Health and N
 ---
 
 
-# 👤 Author
+# 🖋️ Author
 
 **Hyokyoung "Grace" Hong**
 📧 [grace.hong@nih.gov](mailto:grace.hong@nih.gov)
