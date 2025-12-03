@@ -181,6 +181,12 @@ This tool reproduces the official **USDA/NCI methodology** for computing total a
 A resource page for the National Health and Nutrition Examination Survey (NHANES), a CDC program that collects interview and examination data from a nationally representative sample of the United States population.
 
 ---
+## Clinical Trials
+
+### 📘 [Training Resources](https://github.com/younghhk/ClinicalTrials)
+A collection of training materials on clinical trial design, sample size, power, and essential principles used in clinical research.
+
+---
 
 ### 🧑‍💻 Author
 
