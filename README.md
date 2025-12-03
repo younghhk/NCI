@@ -14,7 +14,7 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 - [Meta-Analysis & Evidence Synthesis](#meta-analysis--evidence-synthesis)
 - [Survival Analysis & Methods Development](#survival-analysis--methods-development)
 - [Health Disparities & Decomposition Methods](#health-disparities--decomposition-methods)
-- [Quantile Methods in Cancer Epidemiology](#quantile-methods-in-cancer-epidemiology)
+- [Quantile Methods in Cancer Research](#quantile-methods-in-cancer-research)
 - [High-Dimensional Statistical Learning](#high-dimensional-statistical-learning)
 - [Radiation Epidemiology](#radiation-epidemiology)
 - [Clinical Trials Methods](#clinical-trials-methods)
@@ -139,7 +139,7 @@ Distributional disparity analyses for complex survey data.
 Evaluating disparities that evolve over follow-up.
 
 ---
-##  Quantile Methods in Cancer Research
+## Quantile Methods in Cancer Research
 
 * Demographic associations with leukocyte telomere length (in revision)
 * [CpG associations with short vs long cancer survival](https://academic.oup.com/pcm/article/2/2/90/5520072)
