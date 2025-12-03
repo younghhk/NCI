@@ -64,24 +64,34 @@ The methods include adjustments for small-count bias and variance estimation, ma
 
 
 ---
+## 🏃‍♂️🛌 Physical Activity / Sleep Research
 
-### 📘 Mixed-Effects Modeling
+### [**Attributes Associated with Physical Activity Outcomes Using Machine Learning**](https://github.com/younghhk/Kebede)
 
-- 📏 [**ICC for Sleep Measurements**](https://github.com/younghhk/Sleep)  
- A guide to computing intraclass correlation coefficients (ICCs) in multilevel sleep data with day, assessment window, and person effects.
+This project uses machine learning to examine demographic, socioeconomic, health, and other individual attributes associated with physical activity. Two physical activity outcomes are analyzed separately, and key attributes are used to identify data-driven subgroups for comparing activity patterns across different population profiles.
 
-  This tutorial explains:
-  - how to specify the appropriate mixed-effects model  
-  - how to interpret ICC as a measure of reliability  
-  - how to compute ICC from model-based variance components  
+🔒 Access to this repository is currently restricted to authorized collaborators.
 
-🔒 Access to this repository is currently limited to authorized collaborators.
 
----  
-### 📘 [LMM/GLMM vs GEE](https://github.com/younghhk/MM)
 
-A tutorial comparing mixed-effects models and generalized estimating equations for longitudinal and clustered epidemiologic data.
-It explains the differences in interpretation, assumptions, and correlation structures to guide proper method selection.
+
+###  [**ICC for Sleep Measurements**](https://github.com/younghhk/Sleep)
+
+A tutorial on computing intraclass correlation coefficients (ICCs) in multilevel sleep data with day-, window-, and person-level effects.
+
+This guide covers:
+
+- Specifying the correct mixed-effects model  
+- Interpreting ICCs as reliability metrics  
+- Estimating ICCs using model-based variance components  
+
+🔒 Access to this repository is currently restricted to authorized collaborators.
+
+
+
+###  [**LMM/GLMM vs GEE**](https://github.com/younghhk/MM)
+
+A tutorial comparing mixed-effects models and generalized estimating equations for longitudinal and clustered epidemiologic data. It outlines key differences in interpretation, assumptions, and correlation structures to support appropriate method selection.
 
 ---
 
