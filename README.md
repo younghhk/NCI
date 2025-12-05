@@ -23,7 +23,7 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 ---
 ##  Core Epidemiologic Concepts
 
-*(Foundational topics used across all domains)*
+
 
 ### [Absolute Risk vs Relative Risk](https://github.com/younghhk/AR-RR)
 
