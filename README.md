@@ -171,7 +171,7 @@ Tools for high-dimensional biomarker selection using **LASSO**, **Elastic Net**,
 - [IPOD: Screening Ultrahigh-Dimensional Covariates with Survival Outcomes (2018)](https://doi.org/10.1111/biom.12820)
 - [Conditional Screening with Survival Data (2018)](https://doi.org/10.1007/s10985-016-9387-7)
 - [Partition-Based Screening (2017)](https://doi.org/10.1093/biomet/asx052)
-- [Quantile-Adaptive Model-Free Screening (2013)](https://doi.org/10.1214/13-AOS1087)
+- [Quantile-Adaptive Model-Free Screening (2013)](https://github.com/younghhk/QA)
 
 
 ---
