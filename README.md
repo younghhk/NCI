@@ -83,7 +83,7 @@ Metabolomics analyses from the **IDATA** biomarker validation study evaluating d
 🔒 Access restricted to authorized collaborators.
 
 ### [Liver Cancer Metabolomics Study](https://github.com/younghhk/livercancer)
-Identifying metabolites associated with hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (ICC) through targeted metabolite-selection methods.
+Identifying metabolites associated with hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (ICC).
 
 🔒 Access restricted to authorized collaborators.
 
