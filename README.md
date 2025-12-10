@@ -9,7 +9,7 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 - [Core Epidemiologic Concepts](#core-epidemiologic-concepts)
 - [Population Health & Cancer Surveillance Research](#population-health--cancer-surveillance-research)
 - [Physical Activity & Sleep Epidemiology](#physical-activity--sleep-epidemiology)
-- [Nutritional Epidemiology & Diet Quality](#nutritional-epidemiology--diet-quality)
+- [Cancer Epidemiology: Biomarker and Metabolomics Research](#cancer-epidemiology-biomarker-and-metabolomics-research)
 - [Causal & Mediation Methods](#causal--mediation-methods)
 - [Meta-Analysis & Evidence Synthesis](#meta-analysis--evidence-synthesis)
 - [Survival Analysis & Methods Development](#survival-analysis--methods-development)
@@ -71,17 +71,23 @@ Tutorial on computing ICCs in multilevel sleep data with day-, window-, and pers
 Comparison of mixed-effects models vs GEE for clustered and longitudinal epidemiologic data.
 
 ---
-##  Nutritional Epidemiology & Diet Quality
+## Cancer Epidemiology: Biomarker and Metabolomics Research
 
 ### [Healthy Eating Index (HEI) Software](https://github.com/younghhk/HEI)
-
-R-based implementation of **HEI-2020** using NHANES and FPED, following USDA/NCI scoring methodology.
+R-based implementation of **HEI-2020** used widely in diet–cancer epidemiology to quantify diet quality in large cohorts such as NHANES.
 
 ### [IDATA Metabolomics Project](https://github.com/younghhk/IDATA)
+Metabolomics analyses from the **IDATA** biomarker validation study evaluating diet and activity reporting for use in cancer epidemiology.  
+🔒 Access restricted to authorized collaborators.
 
-Metabolomics analyses from the **IDATA** biomarker validation study evaluating diet and activity reporting.
+### [Liver Cancer Metabolomics Study](https://github.com/younghhk/livercancer)
+Identifying metabolites associated with hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (ICC) through targeted metabolite-selection methods.
 
 🔒 Access restricted to authorized collaborators.
+
+
+
+
 
 ---
 ##  Causal & Mediation Methods
