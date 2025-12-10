@@ -40,6 +40,10 @@ Guidance on identifying **MCAR**, **MAR**, and **MNAR** mechanisms, with recomme
 ---
 ##  Population Health & Cancer Surveillance Research 
 
+
+### [Healthy Eating Index (HEI) Software](https://github.com/younghhk/HEI)
+R-based implementation of **HEI-2020** used widely in diet–cancer epidemiology to quantify diet quality in large cohorts such as NHANES.
+
 ### [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
 
 A tool for estimating expected cancer cases using age- and sex-specific incidence and mortality rates, providing an automated framework for cancer projections.
@@ -73,8 +77,6 @@ Comparison of mixed-effects models vs GEE for clustered and longitudinal epidemi
 ---
 ## Cancer Epidemiology: Biomarker and Metabolomics Research
 
-### [Healthy Eating Index (HEI) Software](https://github.com/younghhk/HEI)
-R-based implementation of **HEI-2020** used widely in diet–cancer epidemiology to quantify diet quality in large cohorts such as NHANES.
 
 ### [IDATA Metabolomics Project](https://github.com/younghhk/IDATA)
 Metabolomics analyses from the **IDATA** biomarker validation study evaluating diet and activity reporting for use in cancer epidemiology.  
