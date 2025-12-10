@@ -137,7 +137,7 @@ Application demonstrating identification of CpGs and other molecular markers ass
 ### [Tutorial: Quantile Regression for Survival Data](https://academic.oup.com/pcm/article/2/2/90/5520072)
 Introductory explanation of quantile-based approaches for censored survival outcomes.
 
-### [Quantile Regression for Survival Data: FAQ for Epidemiologists](https://github.com/younghhk/CQR)
+### [Quantile Regression for Survival Data: FAQ for Epidemiologists](https://github.com/younghhk/CRQ)
 A Q&A explaining identifiability issues when events are rare, why censored quantile regression may fail, and recommended alternatives for epidemiologic studies.
 
 ---
