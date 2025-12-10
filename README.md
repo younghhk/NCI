@@ -131,8 +131,6 @@ Approaches to estimating survival curves adjusted for covariates in Cox models, 
 ### [Survival Prediction Using Machine Learning](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)
 Examples of using random survival forests, neural networks, and boosting methods for risk prediction.
 
-### [Biomarker Identification for Survival](https://academic.oup.com/pcm/article/2/2/90/5520072)
-Application demonstrating identification of CpGs and other molecular markers associated with short- or long-term cancer survival.
 
 ### [Tutorial: Quantile Regression for Survival Data](https://academic.oup.com/pcm/article/2/2/90/5520072)
 Introductory explanation of quantile-based approaches for censored survival outcomes.
