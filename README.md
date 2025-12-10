@@ -136,6 +136,8 @@ Applications of RSF, neural networks, and boosting for risk prediction.
 
 Identifying CpGs and molecular markers associated with short or long cancer survival.
 
+### [Quantile Regression for Survival Data: FAQ for Epidemiologists](https://academic.oup.com/pcm/article/2/2/90/5520072/CQR)
+
 ---
 ##  Health Disparities & Decomposition Methods
 
