@@ -13,7 +13,7 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 - [Infectious Disease & Molecular Epidemiology](#infectious-disease--molecular-epidemiology)
 - [Causal & Mediation Methods](#causal--mediation-methods)
 - [Meta-Analysis & Evidence Synthesis](#meta-analysis--evidence-synthesis)
-- [Survival Analysis & Methods Development](#survival-analysis--methods-development)
+- [Survival Analysis: Concepts, Tools, and Applications](#survival-analysis-concepts-tools-and-applications)
 - [Health Disparities & Decomposition Methods](#health-disparities--decomposition-methods)
 - [Quantile Methods in Cancer Research](#quantile-methods-in-cancer-research)
 - [High-Dimensional Statistical Learning](#high-dimensional-statistical-learning)
@@ -118,25 +118,27 @@ Mediation methods tailored for high-dimensional omics data such as methylation a
 Key concepts, formulas, and methods for fixed-effect and random-effects meta-analysis.
 
 ---
-##  Survival Analysis & Methods Development
+
+## Survival Analysis: Concepts, Tools, and Applications
+
 
 ### [Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)
-
-Handling left truncation and aligning study entry times.
+Guidance on handling left truncation and aligning participant risk intervals with the correct time scale.
 
 ### [Adjusted Survival Curves](https://github.com/younghhk/Survival-Analysis#sec-adjusted-survival)
-
-Estimating covariate-adjusted survival curves from Cox models.
+Approaches to estimating survival curves adjusted for covariates in Cox models, including marginal and conditional methods.
 
 ### [Survival Prediction Using Machine Learning](https://github.com/younghhk/Survival-Analysis#survival-prediction-using-machine-learning)
-
-Applications of RSF, neural networks, and boosting for risk prediction.
+Examples of using random survival forests, neural networks, and boosting methods for risk prediction.
 
 ### [Biomarker Identification for Survival](https://academic.oup.com/pcm/article/2/2/90/5520072)
+Application demonstrating identification of CpGs and other molecular markers associated with short- or long-term cancer survival.
 
-Identifying CpGs and molecular markers associated with short or long cancer survival.
+### [Tutorial: Quantile Regression for Survival Data](https://academic.oup.com/pcm/article/2/2/90/5520072)
+Introductory explanation of quantile-based approaches for censored survival outcomes.
 
-### [Quantile Regression for Survival Data: FAQ for Epidemiologists](https://academic.oup.com/pcm/article/2/2/90/5520072/CQR)
+### [Quantile Regression for Survival Data: FAQ for Epidemiologists](https://github.com/younghhk/CQR)
+A Q&A explaining identifiability issues when events are rare, why censored quantile regression may fail, and recommended alternatives for epidemiologic studies.
 
 ---
 ##  Health Disparities & Decomposition Methods
