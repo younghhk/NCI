@@ -10,6 +10,7 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 - [Population Health & Cancer Surveillance Research](#population-health--cancer-surveillance-research)
 - [Physical Activity & Sleep Epidemiology](#physical-activity--sleep-epidemiology)
 - [Cancer Epidemiology: Biomarker and Metabolomics Research](#cancer-epidemiology-biomarker-and-metabolomics-research)
+- [Infectious Disease & Molecular Epidemiology](#infectious-disease--molecular-epidemiology)
 - [Causal & Mediation Methods](#causal--mediation-methods)
 - [Meta-Analysis & Evidence Synthesis](#meta-analysis--evidence-synthesis)
 - [Survival Analysis & Methods Development](#survival-analysis--methods-development)
@@ -87,9 +88,13 @@ Identifying metabolites associated with hepatocellular carcinoma (HCC) and intra
 
 🔒 Access restricted to authorized collaborators.
 
+---
+## Infectious Disease & Molecular Epidemiology
 
+### [Malaria Complexity Project](https://github.com/younghhk/Malaria)
+Complexity of Infection (COI) analyses examining malaria transmission intensity, parasite exposure, and Burkitt lymphoma risk.
 
-
+🔒 Access restricted to authorized collaborators.
 
 ---
 ##  Causal & Mediation Methods
