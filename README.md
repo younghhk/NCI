@@ -48,7 +48,7 @@ A tool for estimating expected cancer cases using age- and sex-specific incidenc
 
 R functions for computing age-standardized Incidence-Based Mortality (IBM) rates and rate ratios, including methods to address small-count bias and variance estimation.
 
-🔒 Access currently limited to authorized collaborators.
+
 
 
 ---
