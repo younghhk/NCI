@@ -73,8 +73,6 @@ R functions for computing age-standardized Incidence-Based Mortality (IBM) rates
 
 Methods and tools for analyzing complex survey data in population health and cancer epidemiology,  design-based inference, bias correction, and reproducibility.
 
-All materials are maintained in a single repository with topic-specific subdirectories:
-https://github.com/younghhk/survey-data-methodology
 
 ### [Complex Survey Design & Weighting](https://github.com/younghhk/survey-data-methodology/tree/main/design-weighting)
 Design-based variance estimation, survey weights, strata, and PSU handling for nationally representative datasets such as NHANES.
