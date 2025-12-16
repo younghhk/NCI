@@ -281,17 +281,14 @@ Materials on clinical trial design, power, sample size, and key methodological p
 
 
 ---
+## Author
 
+**Hyokyoung “Grace” Hong**  
+Senior Investigator, Division of Cancer Epidemiology and Genetics (DCEG), NIH  
 
-# 🖋️ Author
+Email: [grace.hong@nih.gov](mailto:grace.hong@nih.gov)  
+DCEG profile: https://dceg.cancer.gov/about/staff-directory/hong-grace  
+GitHub: https://github.com/younghhk
 
-**Hyokyoung "Grace" Hong**
-📧 [grace.hong@nih.gov](mailto:grace.hong@nih.gov)
-
-Senior Investigator </br>
-Biostatistics Branch </br>
-Division of Cancer Epidemiology and Genetics </br>
-National Cancer Institute </br>
-National Institutes of Health </br>
 
 
