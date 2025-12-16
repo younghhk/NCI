@@ -203,6 +203,7 @@ Tools for high-dimensional biomarker selection using **LASSO**, **Elastic Net**,
 
 ### [IDATA Metabolomics Project](https://github.com/younghhk/IDATA)
 Metabolomics analyses from the **IDATA** biomarker validation study evaluating diet and activity reporting for use in cancer epidemiology.  
+
 🔒 Access restricted to authorized collaborators.
 
 ### [Liver Cancer Metabolomics Study](https://github.com/younghhk/livercancer)
@@ -212,10 +213,10 @@ Identifying metabolites associated with hepatocellular carcinoma (HCC) and intra
 
 ---
 # Domain Applications and Impact
+
 🌍 Applied research translating methods into population and clinical insights.
 
 
-Applied epidemiologic and statistical research addressing real-world cancer, behavioral, and population health questions.
 
 ## Physical Activity & Sleep Epidemiology
 
