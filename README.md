@@ -78,14 +78,16 @@ https://github.com/younghhk/survey-data-methodology
 
 ### [Complex Survey Design & Weighting](https://github.com/younghhk/survey-data-methodology/tree/main/design-weighting)
 Design-based variance estimation, survey weights, strata, and PSU handling for nationally representative datasets such as NHANES.
-
+<!--
 ### [Measurement Error & Validation Studies](https://github.com/younghhk/survey-data-methodology/tree/main/measurement-error)
 Approaches to correcting self-reported exposure bias using biomarker calibration and validation substudies.
 
 ### [Small Area Estimation and Sparse Cells](https://github.com/younghhk/survey-data-methodology/tree/main/small-area-estimation)
 Methods for stabilizing estimates in subpopulations with limited sample sizes, including shrinkage and pooling strategies.
 
-### [Missing Data in Survey Contexts](https://github.com/younghhk/survey-data-methodology/tree/main/missing-data)
+-->
+
+### [Missing Data in Survey Contexts](https://github.com/younghhk/survey-data-methodology/tree/main/MI)
 Handling item nonresponse and unit nonresponse under simple random/ complex sampling designs.
 
 ---
