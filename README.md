@@ -4,6 +4,23 @@
 A collection of tools for modeling cancer incidence, survival, biomarker selection, and risk prediction model development — designed to advance reproducible and data-driven cancer research.
 
 
+### Repository Structure at a Glance
+
+This repository is organized into four conceptual layers that reflect the full research pipeline:
+
+- 🧱 **Data Foundations**  
+  Real-world data sources, survey design, and population-level estimation
+
+- 📐 **Core Statistical Methods**  
+  Effect measures, survival analysis, causal inference, and evidence synthesis
+
+- 🤖 **Advanced Machine Learning and High-Dimensional Methods**  
+  Modern statistical learning, variable selection, and omics-scale modeling
+
+- 🌍 **Domain Applications and Impact**  
+  Applied cancer, behavioral, and population health research
+
+
 ## 📑 Contents
 
 - [Data Foundations](#data-foundations)
@@ -30,6 +47,7 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 
 ---
 # Data Foundations
+🧱 Real-world data generation, survey design, and population-level estimation.
 
 ##  Population Health & Cancer Surveillance Research 
 
@@ -51,6 +69,7 @@ R functions for computing age-standardized Incidence-Based Mortality (IBM) rates
 
 ---
 ## Survey Data Methodology
+📊 Design-based inference for complex survey data.
 
 Methods and tools for analyzing complex survey data in population health and cancer epidemiology, emphasizing design-based inference, bias correction, and reproducibility.
 
@@ -78,7 +97,9 @@ Documentation, variable descriptions, and examples for the National Health and N
 
 ---
 
-## Core Statistical Methods
+# Core Statistical Methods
+📐 Principled modeling, interpretation, and inference for epidemiologic research.
+
 
 ### Effect Measures and Interpretation
 
@@ -95,6 +116,8 @@ An overview of absolute and relative risk, including:
 ---
 
 ##  Survival Analysis: Concepts, Tools, and Applications
+
+⏱️ Time-to-event modeling, prediction, and interpretation.
 
 ### [Delayed Entry in Cox Models](https://github.com/younghhk/Survival-Analysis#sec-time-scale-delayed-entry)
 Guidance on handling left truncation and aligning participant risk intervals with the correct time scale.
@@ -144,6 +167,8 @@ Key concepts, formulas, and methods for fixed-effect and random-effects meta-ana
 --- 
 
 # Advanced Machine Learning and High-Dimensional Methods
+🤖 Scalable learning methods for high-dimensional and complex biomedical data.
+
 
 ## High-Dimensional Statistical Learning
 
@@ -187,6 +212,8 @@ Identifying metabolites associated with hepatocellular carcinoma (HCC) and intra
 
 ---
 # Domain Applications and Impact
+🌍 Applied research translating methods into population and clinical insights.
+
 
 Applied epidemiologic and statistical research addressing real-world cancer, behavioral, and population health questions.
 
