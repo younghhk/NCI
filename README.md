@@ -51,7 +51,7 @@ This repository is organized into four conceptual layers that reflect the full r
 
 ##  Population Health & Cancer Surveillance Research 
 
-Tools for large-scale population health surveillance, cancer burden estimation, and standardized rate computation using registry and national data.
+Statistical tools and software for large-scale population health surveillance, cancer research, and risk factor analysis using registry, survey, and national cohort data.
 
 ### [Healthy Eating Index (HEI) Software](https://github.com/younghhk/HEI)
 R-based implementation of **HEI-2020** used widely in diet–cancer epidemiology to quantify diet quality in large cohorts such as NHANES.
@@ -65,6 +65,10 @@ A tool for estimating expected cancer cases using age- and sex-specific incidenc
 
 R functions for computing age-standardized Incidence-Based Mortality (IBM) rates and rate ratios, including methods to address small-count bias and variance estimation.
 
+
+### [Computing MMS in External Datasets](https://github.com/younghhk/MMS-external-scoring/)
+
+Software for computing Metabolite-Based Scores (MMS) in external datasets using coefficients derived from IDATA studies.
 
 
 ---
