@@ -46,8 +46,7 @@ This repository is organized into four conceptual layers that reflect the full r
   - [Clinical Trials Methods](#clinical-trials-methods)
 
 ---
-# Data Foundations
-🧱 Real-world data generation, survey design, and population-level estimation.
+
 
 ##  Population Health & Cancer Surveillance Research 
 
