@@ -4,21 +4,7 @@
 A collection of tools for modeling cancer incidence, survival, biomarker selection, and risk prediction model development — designed to advance reproducible and data-driven cancer research.
 
 
-### Repository Structure at a Glance
 
-This repository is organized into four conceptual layers that reflect the full research pipeline:
-
-- 🧱 **Data Foundations**  
-  Real-world data sources, survey design, and population-level estimation
-
-- 📐 **Core Statistical Methods**  
-  Effect measures, survival analysis, causal inference, and evidence synthesis
-
-- 🤖 **Advanced Machine Learning and High-Dimensional Methods**  
-  Modern statistical learning, variable selection, and omics-scale modeling
-
-- 🌍 **Domain Applications and Impact**  
-  Applied cancer, behavioral, and population health research
 
 
 ## 📑 Contents
