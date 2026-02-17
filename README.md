@@ -56,7 +56,8 @@ R functions for computing age-standardized Incidence-Based Mortality (IBM) rates
 Software for computing Metabolite-Based Scores (MMS) in external datasets using coefficients derived from IDATA studies.
 
 
----
+
+<!--
 ## Survey Data Methodology
 📊 Design-based inference for complex survey data.
 
@@ -65,7 +66,7 @@ Methods and tools for analyzing complex survey data in population health and can
 
 ### [Complex Survey Design & Weighting](https://github.com/younghhk/survey-data-methodology/tree/main/design-weighting)
 Design-based variance estimation, survey weights, strata, and PSU handling for nationally representative datasets such as NHANES.
-<!--
+
 ### [Measurement Error & Validation Studies](https://github.com/younghhk/survey-data-methodology/tree/main/measurement-error)
 Approaches to correcting self-reported exposure bias using biomarker calibration and validation substudies.
 
