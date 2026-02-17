@@ -62,8 +62,6 @@ Software for computing Metabolite-Based Scores (MMS) in external datasets using 
 📊 Design-based inference for complex survey data.
 
 Methods and tools for analyzing complex survey data in population health and cancer epidemiology,  design-based inference, bias correction, and reproducibility.
-
-
 ### [Complex Survey Design & Weighting](https://github.com/younghhk/survey-data-methodology/tree/main/design-weighting)
 Design-based variance estimation, survey weights, strata, and PSU handling for nationally representative datasets such as NHANES.
 
@@ -88,7 +86,7 @@ Documentation, variable descriptions, and examples for the National Health and N
 ---
 
 # Core Statistical Methods
-📐 Principled modeling, interpretation, and inference for epidemiologic research.
+📐Modeling, interpretation, and inference for epidemiologic research.
 
 
 ### Effect Measures and Interpretation
@@ -126,7 +124,7 @@ Introductory explanation of quantile-based approaches for censored survival outc
 A Q&A explaining identifiability issues when events are rare, why censored quantile regression may fail, and recommended alternatives for epidemiologic studies.
 
 ---
-
+<!--
 ##  Causal & Mediation Methods
 
 ### [Planning Mediation Analysis](https://github.com/younghhk/Mediation-Analysis)
@@ -138,7 +136,7 @@ Framework for selecting appropriate mediation analysis strategies in observation
 Mediation methods tailored for high-dimensional omics data such as methylation and gene expression.
 
 🔒 Access restricted to authorized collaborators.
-
+-->
 
 ---
 ##  Meta-Analysis and Evidence Synthesis
