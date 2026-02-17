@@ -123,7 +123,6 @@ Introductory explanation of quantile-based approaches for censored survival outc
 ### [Quantile Regression for Survival Data: FAQ for Epidemiologists](https://github.com/younghhk/CRQ)
 A Q&A explaining identifiability issues when events are rare, why censored quantile regression may fail, and recommended alternatives for epidemiologic studies.
 
----
 <!--
 ##  Causal & Mediation Methods
 
