@@ -76,13 +76,13 @@ Methods for stabilizing estimates in subpopulations with limited sample sizes, i
 
 ### [Missing Data in Survey Contexts](https://github.com/younghhk/survey-data-methodology/tree/main/MI)
 Handling item nonresponse and unit nonresponse under simple random/ complex sampling designs.
--->
----
+
 ##  Datasets & Codebooks
 
 ### [NHANES](https://github.com/younghhk/NHANES)
 
 Documentation, variable descriptions, and examples for the National Health and Nutrition Examination Survey.
+-->
 
 ---
 
