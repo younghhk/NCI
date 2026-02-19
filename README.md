@@ -1,56 +1,12 @@
 # Cancer Research Software Repository
-
-
-A collection of tools for modeling cancer incidence, survival, biomarker selection, and risk prediction model development — designed to advance reproducible and data-driven cancer research.
-
-
-
-
-
-## 📑 Contents
-<!--
-- [Data Foundations](#data-foundations)
-  - [Population Health & Cancer Surveillance Research](#population-health--cancer-surveillance-research)
-  - [Survey Data Methodology](#survey-data-methodology)
-  - [Datasets & Codebooks](#datasets--codebooks)
--->
-
-
-  
-<!--
-  - [Survival Analysis](#survival-analysis)
-  - [Causal & Mediation Methods](#causal--mediation-methods)
-  - [Meta-Analysis](#meta-analysis)
--->  
-- [Population Health & Cancer Surveillance Research Software](#population-health--cancer-surveillance-research-software)
-
-- [Core Statistical Methods](#core-statistical-methods)
-  - [Quantile Methods in Cancer Research](#quantile-methods-in-cancer-research)
-
-- [Advanced Machine Learning and High-Dimensional Methods](#advanced-machine-learning-and-high-dimensional-methods)
-  - [High-Dimensional Statistical Learning](#high-dimensional-statistical-learning)
-  - [Biomarker and Metabolomics Research](#biomarker-and-metabolomics-research)
-
-- [Domain Applications and Impact](#domain-applications-and-impact)
-  - [Physical Activity & Sleep Epidemiology](#physical-activity--sleep-epidemiology)
-  - [Health Disparities & Decomposition Methods](#health-disparities--decomposition-methods)
-  - [Infectious Disease & Molecular Epidemiology](#infectious-disease--molecular-epidemiology)
-  - [Radiation Epidemiology](#radiation-epidemiology)
-  - [Clinical Trials Methods](#clinical-trials-methods)
-
----
-
-
+A collection of statistical tools I developed for modeling cancer incidence, survival, biomarker selection, and risk prediction — designed to advance reproducible and data-driven cancer research.
 
 ## Population Health & Cancer Surveillance Research Software
-Statistical tools and software for large-scale population health surveillance, cancer research, and risk factor analysis using registry, survey, and national cohort data.
-
 ### 📦 [Precision-Based Monitoring Days](https://github.com/younghhk/precision-based-monitoring-days) 
 Determines how many days of monitoring (e.g., accelerometer, dietary recalls, EMA) are needed per participant to achieve desired precision when estimating population means. Uses variance components from pilot data to inform study design decisions.
 
 ### 📦 Bayesian Absolute Risk and Penetrance Estimation (in progress)
-Unified Bayesian framework for estimating both population cancer risk and variant-specific penetrance from a single model. Properly accounts for competing mortality and calibrates genetic risk estimates to population cancer incidence, ensuring internal consistency whether genetic test results are available or not.
-
+Unified Bayesian framework for estimating both population cancer risk and variant-specific penetrance from a single model. Properly accounts for competing mortality and calibrates genetic risk estimates to population cancer incidence.
 ### 📦 [Healthy Eating Index (HEI) Software](https://github.com/younghhk/HEI) 
 R-based implementation of **HEI-2020** used widely in diet–cancer epidemiology to quantify diet quality in large cohorts such as NHANES.
 
@@ -91,23 +47,7 @@ Documentation, variable descriptions, and examples for the National Health and N
 
 ---
 
-# Core Statistical Methods
-📐Modeling, interpretation, and inference for epidemiologic research.
 
-
-### Effect Measures and Interpretation
-
-### [Absolute Risk vs Relative Risk](https://github.com/younghhk/AR-RR)
-
-An overview of absolute and relative risk, including:
-
-* interpretation of each measure
-* when each scale is most informative
-* examples of additive versus multiplicative interaction
-
-
-
----
 
 ##  Survival Analysis: Concepts, Tools, and Applications
 
@@ -143,12 +83,16 @@ Mediation methods tailored for high-dimensional omics data such as methylation a
 🔒 Access restricted to authorized collaborators.
 -->
 
+<!--
 ---
 ##  Meta-Analysis and Evidence Synthesis
 
 ### [Meta-Analysis for Clinical Research](https://github.com/younghhk/Meta-Analysis)
 
 Key concepts, formulas, and methods for fixed-effect and random-effects meta-analysis.
+
+---
+-->
 
 ---
 ## Quantile Methods in Cancer Research
