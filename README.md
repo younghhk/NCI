@@ -22,6 +22,8 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
   - [Causal & Mediation Methods](#causal--mediation-methods)
   - [Meta-Analysis](#meta-analysis)
 -->  
+- [Population Health & Cancer Surveillance Research Software](#population-health--cancer-surveillance-research-software)
+
 - [Core Statistical Methods](#core-statistical-methods)
   - [Quantile Methods in Cancer Research](#quantile-methods-in-cancer-research)
 
@@ -40,22 +42,22 @@ A collection of tools for modeling cancer incidence, survival, biomarker selecti
 
 
 
-## Population Health & Cancer Surveillance Research 
+## Population Health & Cancer Surveillance Research Software
 Statistical tools and software for large-scale population health surveillance, cancer research, and risk factor analysis using registry, survey, and national cohort data.
 
-### [Precision-Based Monitoring Days](https://github.com/younghhk/precision-based-monitoring-days)
+### [Precision-Based Monitoring Days](https://github.com/younghhk/precision-based-monitoring-days) 📦 
 Determines how many days of monitoring (e.g., accelerometer, dietary recalls, EMA) are needed per participant to achieve desired precision when estimating population means. Uses variance components from pilot data to inform study design decisions.
 
-### [Healthy Eating Index (HEI) Software](https://github.com/younghhk/HEI)
+### [Healthy Eating Index (HEI) Software](https://github.com/younghhk/HEI) 📦 
 R-based implementation of **HEI-2020** used widely in diet–cancer epidemiology to quantify diet quality in large cohorts such as NHANES.
 
-### [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases)
+### [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases) 📦 
 A tool for estimating expected cancer cases using age- and sex-specific incidence and mortality rates, providing an automated framework for cancer projections.
 
-### [IBM-Calc](https://github.com/younghhk/SEER)
+### [IBM-Calc](https://github.com/younghhk/SEER) 📦 
 R functions for computing age-standardized Incidence-Based Mortality (IBM) rates and rate ratios, including methods to address small-count bias and variance estimation.
 
-### [Computing MMS in External Datasets](https://github.com/younghhk/MMS-external-scoring/)
+### [Computing MMS in External Datasets](https://github.com/younghhk/MMS-external-scoring/) 📦 
 Software for computing Metabolite-Based Scores (MMS) in external datasets using coefficients derived from IDATA studies.
 
 <!--
