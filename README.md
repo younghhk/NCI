@@ -6,6 +6,7 @@ A collection of statistical tools I developed for modeling cancer incidence, sur
 
 ### 📦 [Standardized Population Mean Estimation](https://github.com/younghhk/standardized-population-mean)  
 Estimates population means from repeated-measures data when observed days are not representative (e.g., overrepresentation of weekends or early monitoring days). Uses regression adjustment and averaging across a balanced set of days to correct bias in simple averages. Designed for applications such as accelerometer data, dietary recalls, and ecological momentary assessment.
+
 ⚠️ **Note:** This repository is currently under active development and is temporarily maintained as private for testing purposes. Code and documentation may change as methods are finalized.
 
 
