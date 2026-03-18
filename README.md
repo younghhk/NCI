@@ -1,6 +1,10 @@
 # Cancer Research Software Repository
 A collection of statistical tools I developed for modeling cancer incidence, survival, biomarker selection, and risk prediction — designed to advance reproducible and data-driven cancer research.
 
+### 📦 [Standardized Population Mean Estimation](https://github.com/younghhk/standardized-population-mean)  
+Estimates population means from repeated-measures data when observed days are not representative (e.g., overrepresentation of weekends or early monitoring days). Uses regression adjustment and averaging across a balanced set of days to correct bias in simple averages. Designed for applications such as accelerometer data, dietary recalls, and ecological momentary assessment.
+⚠️ **Note:** This repository is currently under active development and is temporarily maintained as private for testing purposes. Code and documentation may change as methods are finalized.
+
 ## Population Health & Cancer Surveillance Research Software
 ### 📦 [Precision-Based Monitoring Days](https://github.com/younghhk/precision-based-monitoring-days) 
 Determines how many days of monitoring (e.g., accelerometer, dietary recalls, EMA) are needed per participant to achieve desired precision when estimating population means. Uses variance components from pilot data to inform study design decisions.
