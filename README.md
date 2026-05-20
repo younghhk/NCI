@@ -4,19 +4,22 @@ A collection of statistical tools I developed for modeling cancer incidence, sur
 
 ## Population Health & Cancer Surveillance Research Software
 
+<!--
 ### 📦 [Standardized Population Mean Estimation](https://github.com/younghhk/standardized-population-mean)  
 Estimates population means from repeated-measures data when observed days are not representative (e.g., overrepresentation of weekends or early monitoring days). Uses regression adjustment and averaging across a balanced set of days to correct bias in simple averages. Designed for applications such as accelerometer data, dietary recalls, and ecological momentary assessment.
 
 ⚠️ **Note:** This repository is currently under active development and is temporarily maintained as private for testing purposes. Code and documentation may change as methods are finalized.
-
+-->
 
 ### 📦 [Precision-Based Monitoring Days](https://github.com/younghhk/precision-based-monitoring-days) 
 Determines how many days of monitoring (e.g., accelerometer, dietary recalls, EMA) are needed per participant to achieve desired precision when estimating population means. Uses variance components from pilot data to inform study design decisions.
 
+<!--
 ### 📦 Bayesian Absolute Risk and Penetrance Estimation (in progress)
 Unified Bayesian framework for estimating both population cancer risk and variant-specific penetrance from a single model. Properly accounts for competing mortality and calibrates genetic risk estimates to population cancer incidence.
 ### 📦 [Healthy Eating Index (HEI) Software](https://github.com/younghhk/HEI) 
 R-based implementation of **HEI-2020** used widely in diet–cancer epidemiology to quantify diet quality in large cohorts such as NHANES.
+-->
 
 ### 📦 [Projecting Expected Cancer Cases](https://github.com/younghhk/expectedCases) 
 A tool for estimating expected cancer cases using age- and sex-specific incidence and mortality rates, providing an automated framework for cancer projections.
